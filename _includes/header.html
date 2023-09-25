@@ -6,6 +6,8 @@
         <div class="container">
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+          <img src="https://wzb-ipi.github.io/assets/img/WZB_dots.png" alt=" WZB " style="width:20%">
+
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
                 <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
@@ -26,6 +28,11 @@
             {% include social.html %}
           </div>
           {% endif %}
+          
+                     {% if page.permalink == '/' %}
+                  <img src="https://wzb-ipi.github.io/assets/img/WZB_Logo_nebeneinander_small.png" alt=" WZB " style="width:35%">
+           {% endif %}
+
           <!-- Navbar Toggle -->
           <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
