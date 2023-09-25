@@ -23,6 +23,6 @@ The second strand, focused on informal institutions, examines the evolution of s
 
 Contact:
 
-    <p>Reichpietschufer 50</p>
-    <p>10785 Berlin</p>
-    <p>ipi.office@wzb.eu</p> 
+ Reichpietschufer 50
+ 10785 Berlin
+ ipi.office@wzb.eu
