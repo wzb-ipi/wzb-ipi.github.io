@@ -3,16 +3,16 @@
     "path": "C:/Dropbox/IPI research/8 www/wzb-ipi/_pages/about.md",
     "project_path": "_pages/about.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "1118668327",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1695635202811.0,
     "source_on_save": false,
     "relative_order": 9,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "27,4",
+        "cursorPosition": "25,20",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1695638745,
+    "last_content_update": 1695639008541,
     "read_only": false,
     "read_only_alternatives": []
 }
