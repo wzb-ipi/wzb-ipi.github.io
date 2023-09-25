@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>WZB</a>.
+subtitle: Institutions and Political Inequality
 
 profile:
   align: right
