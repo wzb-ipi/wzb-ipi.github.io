@@ -15,11 +15,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-The institutions and political inequality research unit at the WZB focuses on the political economy of social and political inequality. The unit’s  work has two core strands:
+The institutions and political inequality research unit at the WZB focuses on the political economy of social and political inequality. 
 
-The first strand focuses on inequalities in linkages between citizens and states, examining topics of political accountability and political alienation: when can citizens affect political outcomes and when do they disconnect from, or challenge, political structures?
+Our research concentrates on four clusters: vertical linkages, horizontal contestation, exclusion, and elite connections. These clusters stem from a focus on two types of social division: horizontal divisions between identity groups, and vertical divisions between those that have more or less political power. 
 
-The second strand, focused on informal institutions, examines the evolution of social norms around behaviors related to equality, fairness, and justice. Of particular interest is norm change induced by changes in economic or demographic structures, such as those produced by migration and urbanization.
+*	Work in the vertical linkages cluster centers on ways that citizens can exercise control over political elites, and how elites in turn act to represent, influence, or repress, citizens. For example, when does technology help expand and deepen citizen-state legibility, and at what cost to ordinary citizens?
+*	Work in the horizontal contestation cluster focuses on between-group divisions, the effects of such divisions, and on strategies for how best to address them. Under what conditions, for instance, do citizens choose to trust outgroup members in deeply divided societies? 
+*	The political exclusion cluster examines responses to marginalization. Responses to exclusion from political power include protest and violence, but also fleeing and hiding. Here we explore questions such as when do individuals choose to embark on dangerous irregular migration, or to participate in high-risk, street-level communal violence.
+*	Elite connections is the newest and smallest cluster. Work in this area responds to the fact that political power is often concentrated in ways that micro-level studies miss. Here we ask how connections between political and economic elites evolve, and explore the conditions under which economic and political elites are more (or less) closely connected.
+
+
+See [here](https://wzb-ipi.github.io/assets/slides/ipi.html) for a presentation of our research 
 
 Contact:
 
