@@ -1,0 +1,15 @@
+
+github_users:
+  - wzb-ipi
+  - macartan
+
+github_repos:
+  - wzb-ipi/covid_vaccines_nmed
+  - wzb-ipi/vaccine_solidarity
+  - wzb-ipi/rep_corona
+  - macartan/CausalQueries
+  - integrated-inferences/guide
+  - DeclareDesign/DeclareDesign
+  - gerasy1987/hiddenmeta
+  - macartan/probra
+  - macartan/cj_euclid

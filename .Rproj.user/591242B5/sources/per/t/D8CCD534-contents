@@ -1,0 +1,166 @@
+---
+title: ""
+format: 
+  pdf:
+    include-in-header: 
+      text:       |
+        \usepackage{fancyhdr}
+        \usepackage{lipsum}
+        \usepackage[left=2cm,right=1cm,top=3cm,bottom=4cm]{geometry}
+        \pagestyle{fancy}
+        \renewcommand{\headrulewidth}{0pt}  % Remove header line
+        \newgeometry{left=2cm,right=7cm,top=2cm,bottom=4cm}
+        \fancypagestyle{firststyle}{%
+        \fancyfoot[L]{}
+        \fancyhead[R]{\fontsize{6pt}{8pt}\selectfont
+         \hspace*{3cm} 
+            \begin{tabular}{l}   \\  \\  \\   \\  \hline \\ Prof. Macartan Humphreys, Ph.D.\\
+        Director of the Research Unit\\ 
+        Institutions and Political Inequality\\
+        Phone	+49 (30) 25491-369\\
+        % \url{https://macartan.github.io/}\\
+         \vspace*{8cm}
+        macartan.humphreys@wzb.eu\\
+            \hline \\ Wissenschaftszentrum Berlin\\
+            für Sozialforschung gGmbH\\
+            Reichpietschufer 50\\
+            10785 Berlin\\
+            Phone	+49 (30) 25491-0\\
+            Fax	+49 (30) 25491-684\\
+            wzb@wzb.eu\\ 
+             \vspace*{2cm}
+            www.wzb.eu\\
+            \hline \\
+            Management\\
+           Prof. Jutta Allmendinger Ph.D.\\ 
+             \vspace*{0.3cm}
+           Ursula Noack\\
+           Place of business\\
+           Local court of Charlottenburg\\
+             \vspace*{0.3cm}
+           HRB 4303\\
+             \vspace*{0.3cm}
+           Member of Leibniz Association\\
+           Commerzbank Berlin\\
+           Bank Code Number 100 400 00\\
+            \vspace*{0.3cm}
+           Account Number 507 914 000\\
+           IBAN\\
+           DE07100400000507914000\\
+           Swift-Code COBADEFF\\
+           \vspace*{0.4cm}
+           VAT-No. DE136782674\\
+           \vspace*{0.4cm}
+        \end{tabular}      }}
+        % Header 3 - Text, right-aligned, top right
+        \fancyhead[R]{\small macartan.humphreys@wzb.eu}
+        % Footer settings (you can customize these as needed)
+        \fancyfoot[L]{\includegraphics[width=2cm]{assets/wzb2.jpg} }
+
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+\thispagestyle{empty}
+\thispagestyle{firststyle}
+
+
+```{r,  fig.align = "left", out.width = "30%", echo = FALSE}
+knitr::include_graphics("assets/wzb.jpg")
+```
+```{r,  fig.align = "right", out.width = "20%", echo = FALSE}
+knitr::include_graphics("assets/wzb2.jpg")
+```
+
+\vspace*{2cm} 
+Re: Assessment of *Three Papers in Applied Political Methodology* by Haoyu Zhai.
+
+Berlin, \today{}
+
+\vspace*{1cm}
+
+Thank you for your invitation to read and review *Three Papers in Applied Political Methodology* by Haoyu Zhai.
+
+I provide comments below for each of the substantive chapters. My overall determination is that minor revisions should be done before the defense.
+
+## Chapter 2
+
+This is an interesting paper describing a method and showing it in action.
+
+The paper has many things to like, However the main weakness of the paper is that while it *advocates* for a method, it does not contribute to the development of the method, clarify poorly understood features of the method, or demonstrate that the method in fact performs well relative to something else. I think the paper should at least try to do the third of these and demonstrate that performance of this method is indeed better than something else. This could be by demonstrating that some quantities can be studied that otherwise could not be, or by showing conditions under which the method is in fact more reliable than other methods, e.g. through  simulation or via cross validation. After all the goal is to show “how *best* to model deliberation data.”  A specific difficulty of the applications here that needs to be addressed somehow  is that  the implicit comparisons are to two analyses that *also* use a version of the method: this suggests that the method is not in fact new for this context and that what matters is more how the method is used rather than whether it is used. 
+
+\newpage
+
+\newgeometry{left=2cm,right=2cm,top=2cm,bottom=4cm}
+
+###  Smaller
+
+* It is hard to know that a method is biased without a statement of what the inquiry is (“insights into the complex generative process driving deliberation” isn’t clear enough)
+
+* The goal to make this generalized implies a claim that it is best for most or all inquiries? I think scope conditions need to be laid out here. For instance if the question is: does the gender mix present affect the deliberation time? It is hard to know why you would need a graph.
+
+* Terms in Table 2.1 are discussed before they are introduced . e.g. $\theta^T_{exo}\sigma[s_{exo}(X)]$---one term or two?
+* Section 2.3; need to introduce what X is first. Seems to me more natural to start with 2.2 – the probability of a tie, and then 2.1 – which I understand is just the collection of ties.  Why does 2.2. not have any $ij$ terms on the RHS, is the $x$ meant to be $x_{ij}$ or is each tie or is the relation a function of the full $X$, in which case why isn’t $X$ on the LHS. Also worth talking through how $X$ can be on the LHS and RHS of 2.1. A simple example here would help (e.g the probability of a network depends on the number of links it has).
+You say 2.2 is a rewrite of 2.1 but whether one implies the other surely depends on independence conditions to ensure that the probability of a network is just the product of the probability of the links in the network, or similar.
+I think many would see neither the Dutch twitter or the US congress speeches as instances of deliberation (though I see DelValle uses the term in this context also)
+* The inquiry is first hinted at (p16) only with the summary of results: ‘women are less likely to be mentioned on Twitter by their male than female colleagues.” I find the terms in p16 hard t parse and think these need to be described formally.
+You say $\hat{AME}_{M\rightarrow W}$ means “relative to the all-male baseline, women are indeed less likely than men to receive a Twitter mention.” What’s the arrow doing? It sounds here like it is indicating  the comparison: $\hat{AME}_{M\rightarrow W} = E[Y(W) – Y(M))]$. But later  $\hat{AME}_{W\rightarrow W}$ suggests that women are more likely to receive from fellow women (compared to men?). Is the sender gender a condition? What does the all male baseline mean? I think what is meant is that we compare “men sending to women” to “men sending to men”, so conditioning on the gender of the sender and varying the gender of the receiver. But then the $ W\rightarrow W$ effect is the joint variation in the gender of the sender and receiver?
+* If the point is that the results here are better than regression based results, can you (a) show the regression based results alongside (b) demonstrate that these are actually more reliable, e.g. via cross validation (c) demonstrate that the differences in results is due to a plausibly better handling of dynamics
+* In fact it looks like the authors you compare to (in both cases) already use ERGM models and so the the conclusions seems less about the importance of using network models but rather to use them the way you use them. But it’s not too clear how you are  using them differently to how these authors did. * The discussion here is not sharp and is largely contained in the fairly speculative footnote 10.
+
+### Statements that need more support:
+
+*	The ERGM family are the de facto workhorse models for network inference today. 
+
+*	“Each network statistics calculated on the observed graph X is the expected value of those statistics across all possible graphs” Sorry I don’t get that! That sounds like it doesn’t vary across graphs? I see it in Cranmer and Desmarais p70, but it strikes me as strong.  
+
+### Jargon watch
+
+*	The need for data transformation due to structural monolithism is thus reduced…
+*	Such cross-domain isomorphism brings two benefit…[]
+
+## Chapter 3
+
+The main idea is that theory can be used not just to guide hypothesis testing but also to guide measurement strategies. This is an important insight and as far as I know theory is not used much in this way to measure quantities.  Zhai takes the wind out of his own sails a little by pointing out that the difference between measurement of latent variables and “estimation” (by which he means parameter estimation) is not so different insofar as both are about making inferences about missing data from observed data. Indeed, in a sense, estimating quantities such as the average causal effect implies the estimation of *levels* of (counter factual) quantities ($\mathbbE[Y(0)]$ say.  The measurement of levels of factual quantities should be commensurably simpler.  The application highlights this concern to some extent insofar as the quantity estimated can be seen as both a quantity to  be measured  (unity) and a causal effect (the effect of seat shares). So if you believe structural estimation of effects is valid then, in this instance, you already believe that theory based measurement is valid. Even still the fact remains that this is not done in practice, even if it can be, and Hao gives a thoughtful treatment for how it can be done, and how the validity of the approach can be assessed. The latter focus is particularly welcome as may not like the idea of relying on theory to measure quantities. 
+
+Overall I see this as a useful contribution. 
+
+## Smaller
+
+* The writing is terse (the piece self describes as a letter) and in parts too terse.
+* It was not clear to me that the analogues in table 26 are especially important.  For instance convex optimization seems a little beside the point, the key thing is that they quantity of interest lies in [0,1].
+* Section 3.3.1 tell us that \lambda is the thing to be measured as soon as you introduce it
+* Section 3.3.3  Tell us more about the data being used. Also show the distribution of the $\lambda$ estimates in the text. You go to assessing quality before telling us what you found
+* Sections 3.4.1 and 3.4.2 these are just too terse; it is hard to follow what is being done in these section.  For example for Convergent and Discriminant validity you say that the measure is closely associated with other measures but you don’t tell us what they are.
+
+* You describe: “the singular task of hypothesis testing, or in more general statistical terms parameter estimation” but I am not sure we can think of estimation as a generalization of testing.
+
+## Chapter 4
+
+I am a co-author on this paper and so will limit my comments here; however I can attest that Zhai’s work was fundamental to this paper. He led in every part of the analysis but also contributed fundamentally to the design. 
+
+## Chapter 5
+
+The meta-methodological point comes through clearly enough for papers 2 and 3 but less so for paper 1
+
+* I can’t quite understand what’s meant by “methods trump techniques”
+
+* I enjoyed the discussion around equation 5.1. I wonder though is this the sense in which multiple models are  used in Chapter 4. What is the entity in that case, when different models have a different inferential target? From 5.2 it looks like the target is the outcome (e.g. mortality) but is the target not the explanation?
+
+# Assessment
+
+I believe this dissertation is close to meeting the standards for approval. The main edits I would like to see are:
+
+1.  The provision of evidence in Chapter 2 to demonstrate that the proposed method outperforms regression analysis for some estimands of interest (and perhaps a crisper delineation of the estimands for which it does and does not).
+
+2. More detail *in the text* of Chapter 3 to demonstrate the validity of the method. The approaches here seem sound but there is not enough information for the readers to gauge the evidence.
+
+
+Sincerely,
+\vspace*{1cm}
+
+```{r, fig.align = "left", out.width = "30%", echo = FALSE}
+knitr::include_graphics("assets/sign.jpg")
+```
+
+Macartan Humphreys
