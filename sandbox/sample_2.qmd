@@ -1,0 +1,71 @@
+---
+title: "my first doc"
+author: "sj"
+format:
+  html:
+    theme: solar
+---
+
+# Top level header
+
+## Second level
+
+### Third level
+
+Any text:
+
+-   issue 1
+-   issue 2
+
+or a list
+
+1.  this
+2.  that
+3.  this again
+
+I write italics like *this*
+
+bold like **this**
+
+![label for picture](images/ipi_image.png "nice!")
+
+***bold and italics***
+
+Quotation like this:
+
+> here is a quote; it should be indented
+
+## Simple table
+
+| name | area    |
+|------|---------|
+| jack | art     |
+| mary | science |
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+| WZB Sort | WZB ID | Beyond Recontact | Berghof Invited | Berghof Accepted |
+|----------|--------|-------------------|-----------------|------------------|
+| 1        | 145    | 1                 | **YES**         | **YES**          |
+| 2        | 132    | 0                 | **YES**         | NO               |
+| 3        | 642    | 0                 | **YES**         | NO               |
+| 4        | 56     | 1                 | **YES**         | **YES**          |
+| 5        | 167    | 1                 | NO              |                  |
+| 6        | 456    | 1                 | NO              |                  |
+| 7        | 142    | 1                 | NO              |                  |
+| 8        | 66     | 0                 | NO              |                  |
