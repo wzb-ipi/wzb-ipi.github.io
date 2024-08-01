@@ -3,16 +3,16 @@
     "path": "C:/Dropbox (WZB)/5_github/wzb-ipi.github.io/_projects/2_project.md",
     "project_path": "_projects/2_project.md",
     "type": "markdown",
-    "hash": "2370410708",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1722506218693.0,
     "source_on_save": false,
     "relative_order": 17,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,17",
+        "cursorPosition": "18,0",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722519041099,
+    "last_content_update": 1722519583247,
     "read_only": false,
     "read_only_alternatives": []
 }
