@@ -10,7 +10,7 @@ category: methods
 ![image text](/../assets/img/7.jpg)
 
 
-[Download the Discussion Paper (PDF)](/../../assets/pdf/who-wants-to-be-legible.pdf)
+[Download the Discussion Paper (PDF)](/../../assets/pdf/articles/who-wants-to-be-legible.pdf)
 
 
 ------------------------------------------------------------------------
