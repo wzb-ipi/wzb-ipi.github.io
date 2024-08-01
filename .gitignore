@@ -9,3 +9,6 @@ _site
 Gemfile.lock
 vendor
 
+.Rproj.user/shared/notebooks/paths
+.Rproj.user/shared/notebooks/paths
+/.Rproj.user/shared/notebooks
