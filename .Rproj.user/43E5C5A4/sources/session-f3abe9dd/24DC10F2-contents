@@ -1,0 +1,40 @@
+---
+title: "First Try"
+format: html
+---
+
+# The Great Website Project
+
+## The IPI Website 2.0
+
+This is a great text that will go live on our **website**. So we can have an amazing *Leibniz Evaluation* result.
+
+1.  People
+
+2.  Reserach
+
+3.  Publications
+
+4.  Events
+
+![Picture](pictures/flight_02.07_8pm.JPG)
+
+### Test Table
+
+|Name | Country | Topic |
+| :-- | :-----: | ----: |
+| Bla | Blii    | Blub  |
+
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

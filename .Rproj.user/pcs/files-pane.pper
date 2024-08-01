@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": false
+            "ascending": true
         }
     ],
-    "path": "~/wzb-ipi.github.io/sandbox"
+    "path": "~/GitHub/wzb-ipi.github.io/sandbox"
 }
