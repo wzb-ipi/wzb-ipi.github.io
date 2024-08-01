@@ -7,7 +7,7 @@ subtitle: Institutions and Political Inequality
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -27,7 +27,7 @@ Our research concentrates on four clusters: vertical linkages, horizontal contes
 
 See [here](https://wzb-ipi.github.io/assets/slides/ipi.html) for a presentation of our research 
 
-Contact:
+## Contact:
 
  Reichpietschufer 50
  10785 Berlin
