@@ -8,11 +8,12 @@ category: methods
 ---
 
 
-[image text](assets/img/7.jpg)
+[image text](/../../assets/img/7.jpg)
+
+[image text](/../assets/img/7.jpg)
 
 
-
-[Download the Discussion Paper (PDF)](assets/files/Who-Wants-to-be-Legible.pdf)
+[Download the Discussion Paper (PDF)](/../../assets/pdf/Who-Wants-to-be-Legible.pdf)
 
 ------------------------------------------------------------------------
 
