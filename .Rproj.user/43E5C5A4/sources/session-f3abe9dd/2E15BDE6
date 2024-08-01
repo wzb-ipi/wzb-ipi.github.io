@@ -3,7 +3,7 @@
     "path": "~/GitHub/wzb-ipi.github.io/_bibliography/papers.bib",
     "project_path": "_bibliography/papers.bib",
     "type": "text",
-    "hash": "1152060421",
+    "hash": "2374646095",
     "contents": "",
     "dirty": false,
     "created": 1722504873957.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,16",
-        "scrollLine": "0"
+        "cursorPosition": "33,38",
+        "scrollLine": "8"
     },
     "folds": "",
-    "lastKnownWriteTime": 1722518026,
+    "lastKnownWriteTime": 1722521655,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722518026085,
+    "last_content_update": 1722521655148,
     "read_only": false,
     "read_only_alternatives": []
 }
