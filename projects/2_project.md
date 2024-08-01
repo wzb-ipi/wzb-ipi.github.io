@@ -3,11 +3,11 @@ title: Who Wants to be Legible? Digitalization and Intergroup Inequality in Keny
 description: A Discussion Paper by Lisa Garbe, Nina Mcmurry, Alexandra Scacco and Kelly Zhang
 img: assets/img/7.jpg
 importance: 2
-category: work
-giscus_comments: true
-editor_options: 
-  markdown: 
-    wrap: sentence
+category: methods
+
+
+[image text](7.jpg)
+
 
 
 [Download the Discussion Paper (PDF)](assets/files/Who-Wants-to-be-Legible.pdf)
