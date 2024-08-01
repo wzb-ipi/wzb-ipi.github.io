@@ -1,17 +1,16 @@
----
 layout: page
 title: Who Wants to be Legible? Digitalization and Intergroup Inequality in Kenya
 description: A Discussion Paper by Lisa Garbe, Nina Mcmurry, Alexandra Scacco and Kelly Zhang
 img: assets/img/7.jpg
 importance: 2
 category: methods
----
-
-![image text](/../assets/img/7.jpg)
 
 
-[Download the Discussion Paper (PDF)](/../../assets/pdf/articles/who-wants-to-be-legible.pdf)
+[image text](7.jpg)
 
+
+
+[Download the Discussion Paper (PDF)](assets/files/Who-Wants-to-be-Legible.pdf)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +18,14 @@ Every project has a beautiful feature showcase page. It's easy to include images
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-
+```         
+---
+layout: page
+title: project
+description: a project with a background image
+img: /assets/img/12.jpg
+---
+```
 
 ::: row
 ```         
