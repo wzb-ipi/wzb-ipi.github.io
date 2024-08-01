@@ -7,13 +7,15 @@ importance: 2
 category: methods
 ---
 
-
-[image text](/../../assets/img/7.jpg)
-
-[image text](/../assets/img/7.jpg)
+![image text](/../assets/img/7.jpg)
 
 
 [Download the Discussion Paper (PDF)](/../../assets/pdf/Who-Wants-to-be-Legible.pdf)
+
+
+Who-Wants-to-be-Legible.pdf
+not
+Who_Wants_to_be_Legible.pdf
 
 ------------------------------------------------------------------------
 
