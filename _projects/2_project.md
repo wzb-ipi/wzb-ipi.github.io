@@ -14,6 +14,10 @@ category: vertikal linkages
 
 [Download the Discussion Paper (PDF)](/../../assets/pdf/Who_Wants_to_be_Legible.pdf)
 
+[Download the Discussion Paper (PDF)](/../../assets/pdf/articles/Who_Wants_to_be_Legible.pdf)
+
+[Download the Discussion Paper (PDF)](articles/Who_Wants_to_be_Legible.pdf)
+
 ------------------------------------------------------------------------
 
 Every project has a beautiful feature showcase page. It's easy to include images in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
