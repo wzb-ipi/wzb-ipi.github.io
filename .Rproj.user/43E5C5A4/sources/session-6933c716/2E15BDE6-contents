@@ -15,7 +15,7 @@ Hauptstadt Kampala die Anfrage an das Team um Macartan
 Humphreys kam, die Erarbeitung einer Bürgercharta zu unterstützen.
 Es begann ein aufschlussreiches Zusammenspiel von Wissenschaft und
 Praxis und ein Prozess der Koproduktion von Nord und Süd."},
- pdf = {/../../assets/pdf/00-Artikel-Chirikure-humphreys.pdf}
+ pdf = {mitteilungen/2024-chirikure-humphreys.pdf}
 }
 
 @article{Guo2024,
@@ -32,7 +32,18 @@ Formen sind andere als in den gut erforschten Industrieländern des
 Globalen Nordens, es unterscheiden sich Forderungen und Ergebnisse.
 Es wäre aber voreilig anzunehmen, Streiks schwacher Organisationen
 im starken Staat seien unpolitisch."},
+ pdf = {mitteilungen/2024-guo.pdf}
 }
+
+@article{ChirikureNaumann2024,
+  author = {Chirikure, Nora and Lennard Naumann},
+  title = {Ungleichgewicht der Macht},
+  journal = {WZB-Mitteilungen},
+  year = {2024},
+  abstract = {"Forschende aus unterschiedlichen Teilen der Erde haben immer noch sehr ungleiche Startchancen. Das gilt für die Finanzierung ihrer Forschung, akademische Karrierewege, für Visa und Netzwerke. Nora Chirikure und Lennard Naumann fragen, was es braucht, damit Süd-Nord-Forschungspartnerschaften wirklich gleichberechtigt sind und Forschung aus dem Globalen Süden Erfolg hat."},
+  url = {https://wzb.eu/de/artikel/ungleichgewicht-der-macht},
+}
+
 
 %% Kelly
 
@@ -101,7 +112,8 @@ variation in support for specific policy features, and suggestive evidence that
 policies facilitating greater surveillance may discourage opposition political 
 participation."},
   journal = {Comparative Political Studies},
-  institution={WZB Discussion Paper}
+  institution={WZB Discussion Paper},
+  pdf = {articles/who-wants-to-be-legible.pdf}
 }
 
 %% Lisa
