@@ -13,3 +13,6 @@ vendor
 .Rproj.user/shared/notebooks/paths
 /.Rproj.user/shared/notebooks
 .Rproj.user/shared/notebooks/paths
+*.md
+_projects/2_project.md
+_projects/2_project.md
