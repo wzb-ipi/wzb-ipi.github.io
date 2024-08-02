@@ -7,24 +7,20 @@ importance: 2
 category: vertical linkages
 ---
 
+
+
 ![image text](/../assets/img/7.jpg)
+
 
 [Download the Discussion Paper (PDF)](/../../assets/pdf/Who_Wants_to_be_Legible.pdf)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
 [Download the Discussion Paper (PDF)](/../../assets/pdf/articles/Who_Wants_to_be_Legible.pdf)
 
 [Download the Discussion Paper (PDF)](articles/Who_Wants_to_be_Legible.pdf)
->>>>>>> fdd3029eb83835f6beb5fbc2c1e45f62ef1fea41
-=======
-[Download the Discussion Paper (PDF)](/../../assets/pdf/articles/Who_Wants_to_be_Legible.pdf)
 
-[Download the Discussion Paper (PDF)](articles/Who_Wants_to_be_Legible.pdf)
->>>>>>> fdd3029eb83835f6beb5fbc2c1e45f62ef1fea41
 
+mitteilungen/00-Artikel-Chirikure-Humphreys.pdf
+https://wzb-ipi.github.io/assets/pdf/mitteilungen/00-Artikel-Chirikure-humphreys.pdf
 ------------------------------------------------------------------------
 
 Every project has a beautiful feature showcase page. It's easy to include images in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
