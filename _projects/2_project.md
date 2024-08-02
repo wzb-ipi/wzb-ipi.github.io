@@ -5,12 +5,12 @@ description: A Discussion Paper by Lisa Garbe, Nina Mcmurry, Alexandra Scacco an
 img: assets/img/7.jpg
 importance: 2
 category: vertical linkages
----
 
 ![image text](/../assets/img/7.jpg)
 
 [Download the Discussion Paper (PDF)](/../../assets/pdf/Who_Wants_to_be_Legible.pdf)
 
+---
 <<<<<<< HEAD
 <<<<<<< HEAD
 
