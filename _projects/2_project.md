@@ -11,7 +11,7 @@ category: vertical linkages
 ![image text](/../assets/img/7.jpg)
 
 
-[Download the Discussion Paper (PDF)](/../../assets/pdf/Who_Wants_to_be_Legible.pdf)
+[Download the Discussion Paper (PDF)](/../../assets/pdf/articles/who-wants-to-be-legible.pdf)
 
 <<<<<<< HEAD
 ---
