@@ -5,29 +5,20 @@ description: A Discussion Paper by Lisa Garbe, Nina Mcmurry, Alexandra Scacco an
 img: assets/img/7.jpg
 importance: 2
 category: vertical linkages
-
+---
 
 
 ![image text](/../assets/img/7.jpg)
 
 
+<<<<<<< HEAD
 [Download the Discussion Paper (PDF)](/../../assets/pdf/articles/who-wants-to-be-legible.pdf)
-
-<<<<<<< HEAD
----
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 =======
-=======
->>>>>>> 5aa978dfcc4acc8b409eb463f259d2c3c46b3e06
-[Download the Discussion Paper (PDF)](/../../assets/pdf/articles/Who_Wants_to_be_Legible.pdf)
+>>>>>>> 32066588198158e3f52e33dd68e58d160f39a49d
 
-[Download the Discussion Paper (PDF)](articles/Who_Wants_to_be_Legible.pdf)
+[Download the Discussion Paper (PDF)](/../../assets/pdf/articles/2024-who-wants-to-be-legible.pdf)
 
 
-mitteilungen/00-Artikel-Chirikure-Humphreys.pdf
-https://wzb-ipi.github.io/assets/pdf/mitteilungen/00-Artikel-Chirikure-humphreys.pdf
 ------------------------------------------------------------------------
 
 Every project has a beautiful feature showcase page. It's easy to include images in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
