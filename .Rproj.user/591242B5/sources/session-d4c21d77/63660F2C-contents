@@ -1,214 +1,6 @@
 ---
 ---
 
-@article{ChirikureHumphreys2024,
-  author = {Chirikure, Nora and Humphreys, Macartan},
-  title = {Wenn Nord und Süd zusammenarbeiten. Erfahrungen aus einem Projekt in Uganda},
-  journal = {WZB-Mitteilungen},
-  year = {2024},
-  number = {2=Nr. 184},
-  pages = {6-9},
-  abstract = {"Die Frage, welche Mechanismen politische Teilhalbe ermöglichen, ist
-eine der Kernfragen der WZB-Abteilung Institutionen und politische
-Ungleichheit. Freude und Neugier waren daher groß, als aus der ugandischen
-Hauptstadt Kampala die Anfrage an das Team um Macartan
-Humphreys kam, die Erarbeitung einer Bürgercharta zu unterstützen.
-Es begann ein aufschlussreiches Zusammenspiel von Wissenschaft und
-Praxis und ein Prozess der Koproduktion von Nord und Süd."},
- pdf = {mitteilungen/00-Artikel-Chirikure-humphreys.pdf}
-}
-
-@article{Guo2024,
-  author = {Guo, Yuequan},
-  title = {Vermeintlich unpolitisch. Streiks in China folgen anderen Regeln als in nördlichen Industrieländern},
-  journal = {WZB-Mitteilungen},
-  year = {2024},
-  number = {2=Nr. 184},
-  pages = {40-43},
-  abstract = {"Ein Jahr hat Yuequan Guo in Industriebetrieben zweier Provinzen im
-Osten Chinas verbracht, um zu verstehen, wie Streiks unter den stren-
-gen Augen von Geschäftsführung und Regierung funktionieren. Die
-Formen sind andere als in den gut erforschten Industrieländern des
-Globalen Nordens, es unterscheiden sich Forderungen und Ergebnisse.
-Es wäre aber voreilig anzunehmen, Streiks schwacher Organisationen
-im starken Staat seien unpolitisch."},
-}
-
-%% Kelly
-
-@article{aggarwal20232,
-  title={A 2 million-person, campaign-wide field experiment shows how digital advertising affects voter turnout},
-  author={Aggarwal, Minali and Allen, Jennifer and Coppock, Alexander and Frankowski, Dan and Messing, Solomon and Zhang, Kelly and Barnes, James and Beasley, Andrew and Hantman, Harry and Zheng, Sylvan},
-  journal={Nature Human Behaviour},
-  number={3},
-  volume={7},
-  year={2023},
-  pages={332--341},
-  publisher={Nature Publishing Group UK London}
-}
-
-@article{bjorvatn2021elections,
-  title={Elections and selfishness},
-  author={Bjorvatn, Kjetil and Galle, Simon and Berge, Lars Ivar Oppedal and Miguel, Edward and Posner, Daniel N and Tungodden, Bertil and Zhang, Kelly},
-  journal={Electoral Studies},
-  volume={69},
-  pages={102267},
-  year={2021},
-  publisher={Elsevier}
-}
-
-%% Scacco
-
-@article{aksunger2023covid,
-  title={COVID-19 and mental health in 8 low-and middle-income countries: A prospective cohort study},
-  author={Aksunger, Nursena and Vernot, Corey and Littman, Rebecca and Voors, Maarten and Meriggi, Niccol{\`o} F and Abajobir, Amanuel and Beber, Bernd and Dai, Katherine and Egger, Dennis and Islam, Asad and others},
-  journal={PLoS Medicine},
-  volume={20},
-  number={4},
-  pages={e1004081},
-  year={2023},
-  publisher={Public Library of Science San Francisco, CA USA}
-}
-
-@article{scacco2018can,
-  title={Can social contact reduce prejudice and discrimination? Evidence from a field experiment in Nigeria},
-  author={Scacco, Alexandra and Warren, Shana S},
-  journal={American Political Science Review},
-  volume={112},
-  number={3},
-  pages={654--677},
-  year={2018},
-  publisher={Cambridge University Press}
-}
-
-@article{gmsz2023wants,
-  title={Who Wants to be Legible? Digitalization and Intergroup Inequality in Kenya},
-  author={Garbe, Lisa and McMurry, Nina and Scacco, Alexandra and Zhang, Kelly},
-  year={2024},
-  abstract = {"Governments across the Global South have begun introducing biometric IDs 
-(eIDs) in an attempt to improve citizen-state legibility. While such initiatives can 
-improve government efficiency, they also raise important questions about 
-citizen privacy, especially for groups with a history of mistrust in the state. If 
-concerns about increased legibility produce differential eID uptake or changes 
-in political behavior, eID initiatives may exacerbate societal inequalities. In a 
-conjoint experiment with 2,073 respondents from four Kenyan regions, we 
-examine how perceptions of and willingness to register for eID under different 
-policy conditions vary across politically dominant, opposition, and 'securitized' 
-(heavily policed) ethnic groups. Our results indicate broad support for expanded 
-legibility, with respondents across groups preferring policies that link eIDs with 
-a range of government functions. However, we find meaningful group-level 
-variation in support for specific policy features, and suggestive evidence that 
-policies facilitating greater surveillance may discourage opposition political 
-participation."},
-  journal = {Comparative Political Studies},
-  institution={WZB Discussion Paper},
-  pdf = {articles/who-wants-to-be-legible.pdf}
-}
-
-%% Lisa
-@article{garbe2023pulling,
-  title={Pulling through elections by pulling the plug: Internet disruptions and electoral violence in Uganda},
-  author={Garbe, Lisa},
-  journal={Journal of Peace Research},
-  pages={00223433231168190},
-  year={2023},
-  publisher={SAGE Publications Sage UK: London, England}
-}
-
-@article{freyburg2023political,
-  title={The political power of internet business: A comprehensive dataset of Telecommunications Ownership and Control (TOSCO)},
-  author={Freyburg, Tina and Garbe, Lisa and Wavre, V{\'e}ronique},
-  journal={The Review of International Organizations},
-  volume={18},
-  number={3},
-  pages={573--600},
-  year={2023},
-  publisher={Springer}
-}
-
-
-
-@article{garbe2023african,
-  title={How African countries respond to fake news and hate speech},
-  author={Garbe, Lisa and Selvik, Lisa-Marie and Lemaire, Pauline},
-  journal={Information, Communication \& Society},
-  volume={26},
-  number={1},
-  pages={86--103},
-  year={2023},
-  publisher={Taylor \& Francis}
-}
-
-%% Beber
-@article{beber2019promise,
-  title={The promise and peril of peacekeeping economies},
-  author={Beber, Bernd and Gilligan, Michael J and Guardado, Jenny and Karim, Sabrina},
-  journal={International Studies Quarterly},
-  volume={63},
-  number={2},
-  pages={364--379},
-  year={2019},
-  publisher={Oxford University Press}
-}
-
-
-%% Nina
-
-@article{mcmurry2022recognition,
-  title={From Recognition to Integration: Indigenous Autonomy, State Authority, and National Identity in the Philippines},
-  author={McMurry, Nina},
-  journal={American Political Science Review},
-  volume={116},
-  number={2},
-  pages={547--563},
-  year={2022},
-  publisher={Cambridge University Press}
-}
-
-@article{lieberman2021strong,
-  title={When Do Strong Parties “Throw the Bums Out”? Competition and Accountability in South African Candidate Nominations},
-  author={Lieberman, Evan and Martin, Philip and McMurry, Nina},
-  journal={Studies in Comparative International Development},
-  volume={56},
-  pages={316--342},
-  year={2021},
-  publisher={Springer}
-}
-
-@article{zhang2021building,
-  title={Building robust and ethical vaccination verification systems},
-  author={Zhang, Baobao and Weissinger, Laurin and Himmelreich, Johannes and McMurry, Nina and Li, Tiffany C and Kreps, Sarah E},
-  journal={Brookings TechStream},
-  year={2021}
-}
-
-
-%% Hilbig
-@article{hager2020does,
-  title={Does public opinion affect political speech?},
-  author={Hager, Anselm and Hilbig, Hanno},
-  journal={American Journal of Political Science},
-  volume={64},
-  number={4},
-  pages={921--937},
-  year={2020},
-  publisher={Wiley Online Library}
-}
-
-
-%% Bosancianu
-@article{nemvcok2023softening,
-  title={Softening the corrective effect of populism: populist parties’ impact on political interest},
-  author={Nem{\v{c}}ok, Miroslav and Bosancianu, Constantin Manuel and Leshchenko, Olga and Kluknavsk{\'a}, Alena},
-  journal={West European Politics},
-  volume={46},
-  number={4},
-  pages={760--787},
-  year={2023},
-  publisher={Taylor \& Francis}
-}
-%% Humphreys
-
 @article{hartmann2023trading,
   title={Trading Liberties: Estimating COVID-19 Policy Preferences from Conjoint Data},
   author={Hartmann, Felix and Humphreys, Macartan and Geissler, Ferdinand and Kl{\"u}ver, Heike and Giesecke, Johannes},
@@ -222,10 +14,10 @@ participation."},
   code = {https://doi.org/10.7910/DVN/SVD9SV},
   pap = {https://osf.io/4vgf6/},
   html = {https://www.cambridge.org/core/journals/political-analysis/article/trading-liberties-estimating-covid19-policy-preferences-from-conjoint-data/71AB21F181572AF9C745E67B9DA796CD},
-  selected={true}
+  selected={false}
 }
 
-fa
+
 @article{dawid2021bounding,
   title={Bounding causes of effects with mediators},
   abbr = {SMR},
@@ -272,12 +64,11 @@ fa
   pages={105993},
   year={2022},
   publisher={Elsevier},
-  selected={true},
+  selected={false},
   pdf={papers/2022_political_violence_growth_preprint.pdf},
   html = {https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001838},
   abstract = "I provide an illustration of a dynamic version of Robert Bates’ conjecture that technologies of coercion can be critical to generate prosperity. The model provides support for the conjecture under specified conditions, generates implications for growth paths, including transitions away from coercive strategies, and has implications for the evolution of inequality.",
   keywords = {theory, violence, development},
-  selected={true},
   code = {https://macartan.github.io/code/2022_bates_conjecture.html}
   }
   
@@ -898,6 +689,7 @@ been prominent in the public debate in support of calls for such interventions o
   year={2008},
   abstract = {A range of seemingly rival theories attempt to explain why some individuals take extraordinary risks by choosing to participate in armed conflict. To date, however, competing accounts have typically not been grounded in systematic, empirical studies of the determinants of participation. In this article, we begin to fill this gap through an examination of the determinants of participation in insurgent and counterinsurgent factions in Sierra Leone's civil war. We find some support for all of the competing theories, suggesting that the rivalry between them is artificial and that theoretical work has insufficiently explored the interaction of various recruitment strategies. At the same time, the empirical results challenge standard interpretations of grievance-based accounts of participation, as poverty, a lack of access to education, and political alienation predict participation in both rebellion and counterrebellion. Factors that are traditionally seen as indicators of grievance or frustration may instead proxy a for more general susceptibility to engage in violent action or a greater vulnerability to political manipulation by elites.},
   publisher={Wiley Online Library}, 
+  zip={https://macartan.github.io/code/2009_AJPS.zip},
   keywords={violence},
   project = {SLXC},
   pdf = {papers/2009_who_fights.pdf}
@@ -924,6 +716,7 @@ been prominent in the public debate in support of calls for such interventions o
   publisher={Cambridge University Press}, 
   abstract={Integrated Inferences develops a framework for using causal models and Bayesian updating for qualitative and mixed-methods research. By making, updating, and querying causal models, researchers are able to integrate information from different data sources while connecting theory and empirics in a far more systematic and transparent manner than standard qualitative and quantitative approaches allow. This book provides an introduction to fundamental principles of causal inference and Bayesian updating and shows how these tools can be used to implement and justify inferences using within-case (process tracing) evidence, correlational patterns across many cases, or a mix of the two. The authors also demonstrate how causal models can guide research design, informing choices about which cases, observations, and mixes of methods will be most useful for addressing any given question.},
   bibtex_show={true},
+  selected = {true},
   abbr={CUP},
   html = {https://macartan.github.io/integrated_inferences/},
   code = {https://integrated-inferences.github.io/CausalQueries/},
@@ -1164,7 +957,7 @@ been prominent in the public debate in support of calls for such interventions o
   editor={Humphreys, Macartan  and Sachs, Jeffrey  and  Stiglitz, Joseph},
   keywords ={development, theory},
   bibtex_show={true},
-  pdf = {papers/2007_funds.pdf},
+  pdf = papers/2007_funds.pdf,
   abbr = {chapter},
   zip = {https://macartan.github.io/code/2007_HS/hs07.zip},
   abstract = "We propose a political economy model to help understand the incentives to consume natural resource wealth too quickly. A core problem we identify is that political instability reduce the incentives for politicians to spend optimally. We describe a set of design elements that could help address the credibility issues that underlie this problem."
@@ -1243,6 +1036,18 @@ combined effects of the equilibrium strategies of different actors cancel each o
     pdf={papers/2009_OLS_bounds.pdf},
 }
 
+
+@unpublished{chen2010,
+  title={Technology Diffusion and Social Networks: Evidence from a Field Experiment in Uganda},
+  author={Jiehua Chen and  Humphreys, Macartan and Modi, Vijay},
+  year={2010},
+  abbr = {WP},
+  bibtex_show={true},
+  abstract={We examine technology diffusion in rural Uganda, with a focus on the effectiveness of decentralized marketing to encourage the adoption of improved fuelwood cookstoves. Identifying the effects of a dissemination scheme is rendered difficult by the possibility of spillover effects—that areas that are not targeted with a new technology are nevertheless indirectly affected via targeting of their neighbors. To address this concern, we use a novel randomization scheme to allocate ambassadors to communities in a way that can allow for the identification of direct and indirect effects. We find evidence for positive direct and spillover effects on the knowledge of the stoves, but found little evidence of either direct or indirect effects on purchase decision. Our results are consistent with no impact of this scheme on takeup but we note that we cannot rule out the possibility of effects coupled with spillovers that do not decline appreciably over the ranges that we study.},
+  pdf={papers/2010_stoves.pdf},
+  keywords = {methods, causal inference, development}
+}
+
 @unpublished{humphreys2012policing,
   title={Policing Politicians: Citizen  Empowerment and Political Accountability in Uganda},
   author={Humphreys, Macartan and Weinstein, Jeremy},
@@ -1274,19 +1079,12 @@ combined effects of the equilibrium strategies of different actors cancel each o
   abbr = {WP},
   pdf = {papers/2016_Curse_of_Control.pdf},
   keywords = {methods, causal inference},
-  abstract = {"I give an illustration of a simple problem in which a Bayesian researcher can choose
-between random assignment of a treatment or delegating assignment to an informed—but
-motivated—agent. In effect she compares between learning from an RCT or from an observational study. She evaluates designs according to an expected squared error criterion (ESE).
-I show that for a small problem (n “ 2) if she starts with a prior expectation of no treatment
+  abstract = {"I give an illustration of a simple problem in which a Bayesian researcher can choose between random assignment of a treatment or delegating assignment to an informed—but motivated—agent. In effect she compares between learning from an RCT or from an observational study. She evaluates designs according to an expected squared error criterion (ESE). I show that for a small problem (n “ 2) if she starts with a prior expectation of no treatment
 effect but believes that the agent is an advocate of treatment with probability q (and otherwise
 an opponent) then for all values of q she does at least as well delegating assignment as she
 does from an RCT and she does strictly better as long as $q \neq 0.5$. For other priors on treatment
 effects, randomization can dominate delegation or be dominated by it. As n grows the expected errors from an RCT design fall but errors from delegated assignment do not. Although
-there is always some prior such that a delegated procedure beats randomized assignment, the
-converse is not true. For a given prior there may be no delegated procedure that trumps an
-RCT. With uniform priors for example the RCT dominates delegated assignment for all beliefs
-on agent motivations when n $\geq$ 4.
-"}
+there is always some prior such that a delegated procedure beats randomized assignment, the converse is not true. For a given prior there may be no delegated procedure that trumps an RCT. With uniform priors for example the RCT dominates delegated assignment for all beliefs on agent motivations when n $\geq$ 4."}
 }
 
 @unpublished{SchweighoferKodritsch2022,
@@ -1302,3 +1100,60 @@ on agent motivations when n $\geq$ 4.
   code = {https://macartan.github.io/code/2022_SHH_graphs.html}
 }
   
+  
+  
+@unpublished{hj2017,
+  title={Qualitative Inference from Causal Models},
+  author={Macartan Humphreys and Jacobs, Alan},
+  year={2017},
+  abbr = {WP},
+  bibtex_show={true},
+  abstract={Process tracing is a strategy for inferring within-case causal effects from observable implications of causal processes. Bayesian nets, developed by computer scientists and used now in many disciplines, provide a natural framework for describing such processes, characterizing causal estimands, and assessing the value added of additional information for understanding different causal estimands. We describe how these tools can be used by scholars of process tracing to justify inference strategies with reference to lower level theories and to assess the probative value of new within-case information.},
+  pdf={papers/2017_qualdag.pdf},
+  keywords = {methods, causal inference}
+}
+
+@unpublished{habyarimana2006social,
+  title={Social focal points},
+  author={Habyarimana, James and Humphreys, Macartan and Posner, Daniel and Weinstein, Jeremy},
+  abbr = {WP},
+  bibtex_show={true},
+ abstract = {We use experimental methods to study coordination games analogous to voting games over fixed divisions of a pie. We find that players use the ethnic or gender identities of other players, rather than other payoff irrelevant features of a game’s description, to achieve coordination. Coordination along or across gender lines, we show, can be attributed in part to the presence of social norms rather than to the focal point properties of identity. Coordination along ethnic lines however is explained by focal point effects of ethnic categories and can not be accounted for either by the existence of other-regarding preferences between coethnics or to the existence of norms for cooperation within ethnic groups. This evidence suggests that the importance of identity in social interactions may can be explained without appealing to differential attitudinal characteristics of individuals or differences in norms across groups but more simply from the existence of categories that can be used by rational agents to structure their actions.},
+ journal={Unpublished manuscript},
+  year={2006},
+   pdf={papers/2005_coordination.pdf},
+   keywords = {experimental, identity politics}
+}
+
+
+@unpublished{humphreys2000thinking,
+  title={Thinking about salience},
+  abbr = {WP},
+  bibtex_show={true},
+  author={Humphreys, Macartan and Garry, John},
+  journal={Unpublished manuscript},
+  abstract ={Discussions of how to conceptualize salience in politics with connections to heresthetics},
+  year={2000},
+  pdf={papers/2000_salience.pdf},
+  keywords = {theory}
+}
+
+@unpublished{tietz2023,
+  title={Making, Updating, and Querying Causal Models using CausalQueries},
+  author={Till Tietz, and  Medina, Lily and  Syunyaev, Georgiy and  Humphreys, Macartan},
+  year={2023},
+  abbr = {WP},
+  bibtex_show={true},
+  abstract={The R package CausalQueries can be used to make, update, and query causal models.
+Users provide a causal statement of the form X -> M <- Y; M <-> Y which is interpreted
+as a structural causal model over a collection of binary variables. CausalQueries can then
+(1) identify the set of principal strata—causal types—required to characterize all possible
+types of causal relations between nodes consistent with the causal statement (2) determine
+a set of parameters needed to characterize distributions over these types (3) update beliefs
+over the distribution of causal types, using a stan model and (4) pose a wide range of
+causal queries of the model, using either the prior distribution, the posterior distribution,
+or a user-specified candidate vector of parameters},
+  pdf={papers/2024_CausalQueries.pdf},
+  keywords = {methods, causal inference}
+
+}

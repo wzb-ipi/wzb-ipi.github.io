@@ -12,7 +12,13 @@ category: vertical linkages
 [Download the Discussion Paper (PDF)](/../../assets/pdf/Who_Wants_to_be_Legible.pdf)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+[Download the Discussion Paper (PDF)](/../../assets/pdf/articles/Who_Wants_to_be_Legible.pdf)
+
+[Download the Discussion Paper (PDF)](articles/Who_Wants_to_be_Legible.pdf)
+>>>>>>> fdd3029eb83835f6beb5fbc2c1e45f62ef1fea41
 =======
 [Download the Discussion Paper (PDF)](/../../assets/pdf/articles/Who_Wants_to_be_Legible.pdf)
 
