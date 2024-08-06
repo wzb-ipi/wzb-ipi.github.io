@@ -25,10 +25,11 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{%- for keywords in page.keywords %}
-  <h2 class="keywords">{{ keywords }}</h2>
-  {% bibliography -f papers -q @*[keywords~={{ keywords }}]* %}
+{%- for x in page.keywords %}
+  <h2 class="key" id = {{x}}>{{x}}</h2>
+  {% bibliography -f papers -q @*[keywords~={{ x }}]* %}
 {% endfor %}
 
 </div>
----
+
+
