@@ -8,7 +8,7 @@ category: vertical linkages
 
 Ana Garcia-Hernandez 
 
-![© Ana Garcia-Hernandez](../../assets/img/job-market-hernandez.jpg)
+![Image by Ana Garcia-Hernandez](../../assets/img/job-market-hernandez.jpg)
 
 [Download the Working Paper (PDF)](../../assets/pdf/articles/job-market-paper.pdf)
 
