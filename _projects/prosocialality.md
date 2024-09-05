@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Does Political Voice Change Women’s Prosociality?
-Subtitle: Evidence from a Lab in the Field Experiment in Uganda
+subtitle: Evidence from a Lab in the Field Experiment in Uganda  
+description: 
 importance: 2
 category: vertical linkages
 ---
