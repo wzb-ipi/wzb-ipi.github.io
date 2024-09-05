@@ -21,5 +21,8 @@ In recent years, policy-makers across the world have implemented policies to inc
  
    
   
-![Image by Ana Garcia-Hernandez](../../assets/img/job-market-hernandez.jpg)
+![Image by Ana Garcia-Hernandez](../../assets/img/job-market-hernandez.jpg)  
+![Alt text](../../assets/img/job-market-hernandez.jpg)
+
+*© Ana Garcia-Hernandez*
 
