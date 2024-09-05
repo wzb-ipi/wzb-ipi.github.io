@@ -14,7 +14,10 @@ In recent years, policy-makers across the world have implemented policies to inc
 
 
 
-![Image by Ana Garcia-Hernandez](../../assets/img/job-market-hernandez.jpg)
 
-[Download the Working Paper (PDF)](../../assets/pdf/articles/job-market-paper.pdf)
+[Download Working Paper (PDF)](../../assets/pdf/articles/job-market-paper.pdf)  
+ 
+   
+  
+![Image by Ana Garcia-Hernandez](../../assets/img/job-market-hernandez.jpg)
 
