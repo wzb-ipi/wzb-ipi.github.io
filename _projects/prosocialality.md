@@ -2,7 +2,8 @@
 layout: page
 title: Does Political Voice Change Women’s Prosociality?
 subtitle: Evidence from a Lab in the Field Experiment in Uganda  
-description: 
+description:  
+img: assets/img/job-market-hernandez.jpg 
 importance: 2
 category: vertical linkages
 ---
