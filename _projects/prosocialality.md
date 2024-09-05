@@ -17,7 +17,7 @@ In recent years, policy-makers across the world have implemented policies to inc
 
 
 
-[Download Working Paper (PDF)](../../assets/pdf/articles/job-market-paper.pdf)  
+* [Download Working Paper (PDF)](../../assets/pdf/articles/job-market-paper.pdf)  
  
    
   
