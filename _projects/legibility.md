@@ -10,7 +10,7 @@ category: vertical linkages
 <!-- _pages/publications.md -->
 <div class="publications">
 
-  {% bibliography -f projects -q @*[project~=eid]* %}
+  {% bibliography -f projects -q @*[abbr~=eid]* %}
 
 </div>
 
