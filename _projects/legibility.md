@@ -10,7 +10,7 @@ category: vertical linkages
 <!-- _pages/publications.md -->
 <div class="publications">
 
-  {% bibliography -f papers -q @*[keywords~=causal inference]* %}
+  {% bibliography -f projects -q @*[keywords~=causal inference]* %}
 
 </div>
 
