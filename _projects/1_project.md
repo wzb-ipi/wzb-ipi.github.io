@@ -8,7 +8,7 @@ category: methods
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Here are three coll things:
+Here are three cool things:
 
 1. this
 3. that
