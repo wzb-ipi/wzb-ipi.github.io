@@ -6,11 +6,11 @@ img: assets/img/7.jpg
 importance: 2
 category: vertical linkages
 ---
-
+<!-- _pages/publications.md -->
 <!-- _pages/publications.md -->
 <div class="publications">
 
-  {% bibliography -f projects -q @*[keywords~=eid]* %}
+  {% bibliography -f papers -q @*[keywords~=causal inference]* %}
 
 </div>
 
