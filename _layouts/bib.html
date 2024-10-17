@@ -14,17 +14,6 @@
             zoomable=true
             alt=entry.preview -%}
           {%- endif -%}
-        {%- if entry.projpreview -%}
-          {% if entry.projpreview contains '://' -%}
-          <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.projpreview }}">
-          {%- else -%}
-            {%- assign entry_path = entry.projpreview | prepend: '/assets/img/project_preview/' -%}
-            {% include figure.html
-            path=entry_path
-            class="preview z-depth-1 rounded"
-            zoomable=true
-            alt=entry.projpreview -%}
-          {%- endif -%}
         {%- elsif entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
