@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who wants to be legible
+title: Who wants to be legible?
 description: A study of Digitalization and Intergroup Inequality in Kenya
 img: assets/img/7.jpg
 importance: 2
