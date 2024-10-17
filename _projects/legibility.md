@@ -6,11 +6,12 @@ img: assets/img/7.jpg
 importance: 2
 category: vertical linkages
 ---
-<!-- _pages/publications.md -->
-<!-- _pages/publications.md -->
+
+#  Project overview
+
 <div class="publications">
 
-  {% bibliography -f projects -q @*[proj~=eid]* %}
+  {% bibliography -f projects -q @*[project~=eid]* %}
 
 </div>
 
@@ -21,6 +22,6 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[proj~=eid]* %}
+  {% bibliography -f papers -q @*[project~=eid]* %}
 
 </div>
