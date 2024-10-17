@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Who Wants to be Legible? 
+title: Who wants to be legible
 description: A study of Digitalization and Intergroup Inequality in Kenya
 img: assets/img/7.jpg
 importance: 2
 category: vertical linkages
 ---
 
-#  Project overview
+# Project overview
 
 <div class="publications">
 
-  {% bibliography -f projects -q @*[project~=eid]* %}
+  {% bibliography -f projects -q @*[proj~=eid]* %}
 
 </div>
 
@@ -19,6 +19,6 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[project~=eid]* %}
+  {% bibliography -f papers -q @*[proj~=eid]* %}
 
 </div>
