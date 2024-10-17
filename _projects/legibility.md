@@ -21,6 +21,6 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[keywords~=exclusion]* %}
+  {% bibliography -f papers -q @*[proj~=eid]* %}
 
 </div>
