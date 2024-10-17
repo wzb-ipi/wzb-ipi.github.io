@@ -15,10 +15,7 @@ category: vertical linkages
 
 </div>
 
-
-
 # Documents
-
 
 <div class="publications">
 
