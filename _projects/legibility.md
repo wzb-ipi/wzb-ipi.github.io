@@ -11,7 +11,7 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f projects -q @*[project~=eid]* %}
+  {% bibliography -f projects -q @*[proj~=eid]* %}
 
 </div>
 
@@ -22,6 +22,6 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[project~=eid]* %}
+  {% bibliography -f papers -q @*[proj~=eid]* %}
 
 </div>
