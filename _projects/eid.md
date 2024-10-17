@@ -7,7 +7,7 @@ importance: 2
 category: vertical linkages
 ---
 
-# Project overview
+## Project overview
 
 <div class="publications">
 
@@ -15,7 +15,7 @@ category: vertical linkages
 
 </div>
 
-# Documents
+## Documents
 
 <div class="publications">
 
