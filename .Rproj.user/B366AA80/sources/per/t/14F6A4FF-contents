@@ -1,0 +1,10 @@
+
+source("code/helpers.R")
+
+projects <- read_xlsx("projects.xlsx")
+
+make_bib(projects)
+
+make_pages(projects)
+
+

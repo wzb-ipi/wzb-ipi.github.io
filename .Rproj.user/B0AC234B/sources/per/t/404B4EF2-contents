@@ -1,0 +1,57 @@
+---
+title: "Exercise 3 - Lennard Naumann"
+format: pdf
+editor: visual
+---
+
+```{r, echo=F, message=FALSE, warning=F}
+library(tidyverse)
+
+# Load and reshape data
+emig <- read.csv("tps00177_linear.csv")|> 
+  filter(geo == "NL") |> 
+  transmute(Year = TIME_PERIOD, emig = OBS_VALUE) |> 
+  unique()
+imig <- read.csv("tps00176_linear.csv")|> 
+  filter(geo == "NL") |> 
+  transmute(Year = TIME_PERIOD, imig = OBS_VALUE) |>
+  unique()
+pop <- read.csv("tps00001_linear.csv")|> 
+  filter(geo == "NL") |> 
+  transmute(Year = TIME_PERIOD, pop = OBS_VALUE) |> 
+  unique()
+
+# Merge data
+dt <- emig |> 
+  left_join(imig) |> 
+  left_join(pop) |> 
+  
+  # Calculate new variables
+  mutate(netmig = imig - emig,
+         netper1000 = 1000*netmig/pop)
+```
+
+## 3.1a
+
+```{r, warning=F, message=FALSE}
+# Plot 3.1a
+ggplot(dt, aes(x = Year)) +
+  geom_line(aes(y = emig/1000, color = "Emigration"), linewidth = 1.5) +
+  geom_line(aes(y = imig/1000, color = "Immigration"), linewidth = 1.5) +
+  geom_bar(aes(y = netmig/1000, fill = "Net Migration"), stat = "identity", alpha = 0.5) +
+  labs(title = "Migration Trends in the Netherlands", y = "Number of Migrants (Thousands)") +
+scale_color_manual(name = "", values = c("Emigration" = "red", "Immigration" = "blue")) +
+  scale_fill_manual(name = "", values = c("Net Migration" = "lightgreen"))
+```
+
+## 3.1b
+
+```{r, warning=FALSE, message=FALSE}
+ggplot(dt, aes(x = Year, y = netper1000)) +
+  geom_line(size = 1.5) +
+  labs(title = "Net Migration per 1,000 Inhabitants in the Netherlands", y = "Net Migration per 1,000 Inhabitants")
+```
+
+## 3.1c
+
+## Appendix: R code
