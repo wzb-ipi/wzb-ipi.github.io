@@ -4,9 +4,20 @@ title: project 1
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: methods
 related_publications: einstein1956investigations, einstein1950meaning
 ---
+
+Here are three cool things:
+
+1. this
+3. that
+2. the other
+
+
+Here is a [working paper by someone](example_pdf.pdf).
+
+![image text](1.jpg)
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

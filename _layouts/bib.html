@@ -217,6 +217,13 @@
           </div>
           {%- endif %}
 
+          {% if entry.description -%}
+          <!-- Not hidden  block -->
+          <div class="abstract">
+            <p>{{ entry.description }}</p>
+          </div>
+          {%- endif -%}
+          
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
