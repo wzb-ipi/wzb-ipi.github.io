@@ -8,3 +8,6 @@ make_bib(projects)
 make_pages(projects)
 
 
+# Move files
+file.copy(list.files("_projects", full.names = TRUE), "../wzb-ipi/_projects", recursive = TRUE)
+file.copy("projects.bib", "../wzb-ipi/_bibliography/projects.bib", overwrite = TRUE)
