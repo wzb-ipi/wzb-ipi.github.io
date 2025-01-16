@@ -2,7 +2,7 @@
 layout: page
 title: The Elite Networks Project
 description: NA
-img: assets/img/9.jpg
+img: assets/img/publication_preview/thumbprint.jpg
 importance: 2
 category: elite connections
 ---

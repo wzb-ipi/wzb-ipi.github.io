@@ -2,7 +2,7 @@
 layout: page
 title: Political Contexts
 description: NA
-img: NA
+img: assets/img/9.jpg
 importance: 2
 category: elite connections
 ---
