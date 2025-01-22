@@ -6,7 +6,7 @@ subtitle: Institutions and Political Inequality
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IPI-group-picture-2023.png
   image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
