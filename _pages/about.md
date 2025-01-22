@@ -7,7 +7,7 @@ subtitle: Institutions and Political Inequality
 profile:
   align: right
   image: IPI-group-picture-2023.png
-  image_circular: 
+  <img src="IPI-group-picture-2023.png" style="width:70%; float:right;">
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
