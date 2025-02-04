@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Political Contexts
+title: The Elite Networks Project
 description: NA
-img: assets/img/9.jpg
+img: thumbprint.jpg
 importance: 2
 category: elite connections
 ---
@@ -11,7 +11,7 @@ category: elite connections
 
 <div class="publications">
 
-  {% bibliography -f projects -q @*[proj~=cont]* %}
+  {% bibliography -f projects -q @*[proj~=net]* %}
 
 </div>
 
@@ -19,6 +19,6 @@ category: elite connections
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[proj~=cont]* %}
+  {% bibliography -f papers -q @*[proj~=net]* %}
 
 </div>
