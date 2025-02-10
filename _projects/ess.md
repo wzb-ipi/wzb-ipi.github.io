@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Participation in EU politics
-description: Using ESS data to assess who participates or not in European politics
 img: assets/img/10.jpg
+description: NA
 importance: 2
 category: vertical linkages
 ---
