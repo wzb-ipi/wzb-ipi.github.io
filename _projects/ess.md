@@ -2,7 +2,6 @@
 layout: page
 title: Participation in EU politics
 img: assets/img/10.jpg
-description: NA
 importance: 2
 category: vertical linkages
 ---
