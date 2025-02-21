@@ -8,6 +8,8 @@ profile:
   align: right
   image: IPI-group-picture-2023.png
   image_circular:
+  image_circular: false
+  image_width: 800px
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
