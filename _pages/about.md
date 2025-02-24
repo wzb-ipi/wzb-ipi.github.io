@@ -7,9 +7,8 @@ subtitle: Institutions and Political Inequality
 profile:
   align: center
   image: IPI-group-picture-2023.png
-  image_circular:
   image_circular: false
-  image_width: 1000px
+  image_width: 10000px
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -31,6 +30,6 @@ See [here](https://wzb-ipi.github.io/assets/slides/ipi.html) for a presentation 
 
 ## Contact:
 
- Reichpietschufer 50
+ Reichpietschufer 50,
  10785 Berlin
  ipi.office@wzb.eu
