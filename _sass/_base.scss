@@ -1065,9 +1065,18 @@ nav[data-toggle="toc"] {
   }
 }
 
+/* Ensure the profile div takes up full width */
+.profile.float-right {
+    float: none; /* Remove float */
+    width: 100% !important; /* Ensure it spans the full width */
+    max-width: 100% !important; /* Prevent any constraints on width */
+    text-align: center; /* Optional: centers the image */
+}
+
+/* Ensure the image inside the profile div spans the full width */
 .profile img {
-    width: 100vw !important;  /* Full viewport width */
-    max-width: 100% !important; /* Ensure no constraints */
+    width: 100vw !important; /* Full viewport width */
+    max-width: 100% !important; /* Prevent overflow */
     height: auto; /* Maintain aspect ratio */
     display: block; /* Prevent inline spacing */
     margin: 0 auto; /* Center the image */
