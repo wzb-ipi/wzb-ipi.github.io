@@ -15,7 +15,7 @@ social: false  # includes social icons at the bottom of the page
 output: html_document
 ---
 
-### The institutions and political inequality research unit at the WZB focuses on the political economy of social and political inequality. 
+The institutions and political inequality research unit at the WZB focuses on the political economy of social and political inequality. 
 
 Our research concentrates on four clusters: **vertical linkages**, **horizontal contestation**, **exclusion**, and **elite connections**. These clusters stem from a focus on two types of social division: **horizontal divisions** between identity groups, and **vertical divisions** between those that have more or less political power. 
 
