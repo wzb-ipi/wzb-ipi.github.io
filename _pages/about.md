@@ -7,6 +7,7 @@ subtitle: Institutions and Political Inequality
 profile:
   align: center
   image: IPI-group-picture-2023.png
+  image_circular:
   image_circular: false
   image_width: 10000px
 
