@@ -1064,3 +1064,11 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+.profile img {
+    width: 100vw !important;  /* Full viewport width */
+    max-width: 100% !important; /* Ensure no constraints */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Prevent inline spacing */
+    margin: 0 auto; /* Center the image */
+}
