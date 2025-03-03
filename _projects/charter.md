@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wheels of Change
-img: assets/img/wheels.jpg
+title: Developing Kampala's Citizen Charter
+img: NA
 importance: 2
 category: vertical linkages
 ---
@@ -10,7 +10,7 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f projects -q @*[proj~=wheels]* %}
+  {% bibliography -f projects -q @*[proj~=charter]* %}
 
 </div>
 
@@ -18,6 +18,6 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[proj~=wheels]* %}
+  {% bibliography -f papers -q @*[proj~=charter]* %}
 
 </div>

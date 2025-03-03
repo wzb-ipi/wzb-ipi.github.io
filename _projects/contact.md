@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Can Social Contact Reduce Prejudice and Discrimination?
+title: Can Social Contact Reduce Prejudice and Discrimination
 img: assets/img/4.jpg
 importance: 2
 category: horizontal contestations
