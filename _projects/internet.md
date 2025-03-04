@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pulling through elections by pulling the plug
-img: NA
+img: assets/img/5.jpg
 importance: 2
 category: exclusion
 ---

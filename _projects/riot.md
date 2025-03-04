@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anatomy of a Riot
-img: NA
+img: assets/img/5.jpg
 importance: 2
 category: exclusion
 ---

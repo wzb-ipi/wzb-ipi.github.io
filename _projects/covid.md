@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Political and Social Correlates of COVID-19
-img: NA
+img: assets/img/5.jpg
 importance: 2
 category: exclusion
 ---

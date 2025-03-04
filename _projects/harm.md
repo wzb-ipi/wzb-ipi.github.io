@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ethics in Development Research
-img: NA
+img: assets/img/5.jpg
 importance: 2
 category: exclusion
 ---
