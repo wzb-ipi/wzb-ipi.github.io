@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intergroup Contact, Empathy Training, and Refugee-Native Integration in Lebanon
+title: Intergroup Contact in Lebanon
 img: assets/img/9.jpg
 importance: 2
 category: horizontal contestations
