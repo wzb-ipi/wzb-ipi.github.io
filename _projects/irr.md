@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Irregular Migration and Misinformation in Nigeria
+title: Irregular Migration & Misinformation in Nigeria
 img: assets/img/7.jpg
 importance: 2
 category: exclusion
