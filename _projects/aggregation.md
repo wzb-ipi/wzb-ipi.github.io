@@ -3,7 +3,7 @@ layout: page
 title: The Aggregation Challenge
 img: assets/img/10.jpg
 importance: 2
-category: NA
+category: methods
 ---
 
 ## Project overview
