@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Institutions and Political Inequality**
+subtitle: Institutions and Political Inequality
 profile:
   align: center
   image: IPI-group-picture-2023.png
