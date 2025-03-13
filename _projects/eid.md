@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who wants to be legible?
-img: assets/img/7.jpg
+img: assets/img/publication_preview/thumbprint_edit.jpg
 importance: 2
 category: vertical linkages
 ---

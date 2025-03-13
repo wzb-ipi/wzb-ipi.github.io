@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Elite Networks Project
-img: assets/img/publication_preview/thumbprint_edit.jpg
+img: assets/img/networks.png
 importance: 2
 category: elite connections
 ---
