@@ -19,7 +19,7 @@ The Institutions and Political Inequality (IPI) research unit at the WZB focuses
 
 Our research concentrates on four clusters: **vertical linkages**, **horizontal contestation**, **exclusion**, and **elite connections**. These clusters stem from a focus on two types of social division: **horizontal divisions** between identity groups, and **vertical divisions** between those that have more or less political power. 
 
-More about our research group can be found [here](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality) or in this [presentation](https://wzb-ipi.github.io/assets/slides/ipi.html). 
+More about our research group can be found [here](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality) or in this [presentation](https://wzb-ipi.github.io/assets/slides/ipi.html).  
 
 ### Contact
 
