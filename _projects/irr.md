@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Irregular Migration in Nigeria
-img: assets/img/7.jpg
+img: assets/img/migration-nigeria.png
 importance: 2
 category: exclusion
 ---
