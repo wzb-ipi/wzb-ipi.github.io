@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Designe
+title: Research Design
 img: assets/img/9.jpg
 importance: 2
 category: methods
