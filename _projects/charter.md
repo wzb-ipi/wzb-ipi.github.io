@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Developing Kampala's Citizen Charter
-img: assets/img/7.jpg
+img: assets/img/uganda.JPG
 importance: 2
 category: vertical linkages
 ---

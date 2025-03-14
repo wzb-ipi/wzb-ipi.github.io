@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Competition and Accountability in South Africa
+title: Competition & Accountability in South Africa
 img: assets/img/7.jpg
 importance: 2
 category: vertical linkages

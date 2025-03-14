@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Qualitative and Mixed Methods Inference 
+title: Qualitative & Mixed Methods Inference 
 img: assets/img/10.jpg
 importance: 2
 category: methods
