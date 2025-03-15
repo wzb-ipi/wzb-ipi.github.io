@@ -9,7 +9,7 @@ last_name:
 email: ipi.office@wzb.eu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Contact: ipi.office@wzb.eu".  <a href="https://www.wzb.eu/en/legal-notice">General WZB legal notice</a> 
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. <a href="https://www.wzb.eu/en/legal-notice">legal notice</a> 
 keywords: political economy research, institutions, political inequality  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
