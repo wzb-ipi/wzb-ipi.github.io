@@ -1,6 +1,44 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"WD":
+  url: https://www.sciencedirect.com/journal/world-development
 
-"PhysRev":
-  url: https://journals.aps.org/
+"AJPS":
+  url: https://onlinelibrary.wiley.com/journal/15405907
+  color: "pink"
+
+"BJPS":
+  url: https://www.cambridge.org/core/journals/british-journal-of-political-science
+  color: "pink"
+
+"JOP":
+  url: https://www.journals.uchicago.edu/toc/jop/current
+  color: "pink"
+
+"APSR":
+  url: https://www.cambridge.org/core/journals/american-political-science-review
+  color: "pink"
+
+"JCR":
+ url: https://journals.sagepub.com/home/JCR
+ color: "pink"
+
+"PA":
+ url: https://www.cambridge.org/core/journals/political-analysis
+ color: "pink"
+
+
+"WorldPol":
+ url: https://www.cambridge.org/core/journals/world-politics
+ color: "pink"
+
+"WP":
+ color: "grey"
+ 
+"ARPS":
+ url: https://www.annualreviews.org/journal/polisci
+ color: "pink"
+
+
+"M":
+ url: https://www.wzb.eu/de/publikationen/wzb-mitteilungen
+ color: "green"
+
