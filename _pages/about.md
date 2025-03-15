@@ -15,14 +15,14 @@ social: false  # includes social icons at the bottom of the page
 output: html_document
 ---
 
-The Institutions and Political Inequality (IPI) research unit at the WZB focuses studies horizontal divisions between identity groups and vertical divisions between powerful and more marginalized actors. Our work is organized into four clusters: **vertical linkages**, **horizontal contestations**, **exclusion**, and **elite connections**.  
+The Institutions and Political Inequality (IPI) research unit at the WZB studies horizontal divisions between identity groups and vertical divisions between more powerful and more marginalized actors. Our work is organized into four clusters: **vertical linkages**, **horizontal contestations**, **exclusion**, and **elite connections**.  
 
-This repository gives details on [projects](https://wzb-ipi.github.io/projects/) and [publications](https://wzb-ipi.github.io/publications/). 
+* This repository gives details on [projects](https://wzb-ipi.github.io/projects/) and [publications](https://wzb-ipi.github.io/publications/). 
 
-For more about our research group see our main page at [wzb.eu](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality)
+* For more about our research group---people, openings, events---see our main page at [wzb.eu](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality)
 
 
-#### contact
+_____
 
  Reichpietschufer 50,
  10785 Berlin

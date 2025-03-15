@@ -5,6 +5,6 @@ description: about ipi
 permalink: /us/
 nav: true
 nav_order: 3
-redirect: https://wzb-ipi.github.io/assets/html/maps.html
 ---
 
+<iframe src="https://wzb-ipi.github.io/assets/html/maps.html" width="100%" height="800px" style="border:none;"></iframe>
