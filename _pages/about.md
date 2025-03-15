@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Institutions and Political Inequality
+subtitle: IPI Research Repository
 profile:
   align: center
   image: IPI-group-picture-2023.png
@@ -15,11 +15,12 @@ social: false  # includes social icons at the bottom of the page
 output: html_document
 ---
 
-The Institutions and Political Inequality (IPI) research unit at the WZB focuses on the political economy of social and political inequality. 
+The Institutions and Political Inequality (IPI) research unit at the WZB focuses studies horizontal divisions between identity groups and vertical divisions between powerful and more marginalized actors. Our work is organized into four clusters: **vertical linkages**, **horizontal contestations**, **exclusion**, and **elite connections**.  
 
-Our research concentrates on four clusters: **vertical linkages**, **horizontal contestation**, **exclusion**, and **elite connections**. These clusters stem from a focus on two types of social division: horizontal divisions between identity groups, and vertical divisions between those that have more or less political power. 
+This repository gives details on [projects](https://wzb-ipi.github.io/projects/) and [publications](https://wzb-ipi.github.io/publications/). 
 
-More about our research group can be found [here](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality) or in this [presentation](https://wzb-ipi.github.io/assets/slides/ipi.html).  
+For more about our research group see our main page at [wzb.eu](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality)
+
 
 #### contact
 
