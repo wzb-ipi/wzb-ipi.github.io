@@ -9,6 +9,6 @@ nav: false
 <!-- _pages/publications.md -->
 <div class="publications">
 
-  {% bibliography -f papers -q @unpublished %}
+  {% bibliography -f wps -q @unpublished %}
 
 </div>
