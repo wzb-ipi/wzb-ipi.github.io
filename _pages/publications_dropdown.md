@@ -8,6 +8,12 @@ dropdown: true
 children: 
     - title: all writing
       permalink: /writing/by_year
+    - title: by topic
+      permalink: /writing/themes
+    - title: discussion
+      permalink: /writing/discussion
+    - title: unpublished
+      permalink: /writing/wps
 ---
 
 
