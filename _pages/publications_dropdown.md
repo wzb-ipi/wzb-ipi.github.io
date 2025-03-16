@@ -9,7 +9,7 @@ children:
     - title: all writing
       permalink: /writing/by_year
     - title: by topic
-      permalink: /writing/themes
+      permalink: /writing/by_theme
     - title: discussion
       permalink: /writing/discussion
     - title: unpublished

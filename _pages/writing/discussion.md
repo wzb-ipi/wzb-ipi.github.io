@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /discussion/
+permalink: /writing/discussion/
 title: by theme
 description:   
 nav: false

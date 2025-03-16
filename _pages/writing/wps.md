@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /wps/
+permalink: /writing/wps/
 title: working papers
 description:   
 nav: false

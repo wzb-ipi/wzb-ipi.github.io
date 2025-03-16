@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /themes/
+permalink: /writing/by_theme/
 title: by theme
 description:   
 keywords: [vertical linkages, horizontal contestation, exclusion, elite connections, methods]
