@@ -3,7 +3,7 @@ layout: page
 title: Social Contact Theory
 img: assets/img/4.jpg
 importance: 2
-category: horizontal contestations
+category: horizontal contestation
 ---
 
 ## Project overview

@@ -3,7 +3,7 @@ layout: page
 title: Intergroup Contact in Lebanon
 img: assets/img/9.jpg
 importance: 2
-category: horizontal contestations
+category: horizontal contestation
 ---
 
 ## Project overview

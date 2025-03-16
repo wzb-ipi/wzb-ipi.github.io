@@ -3,7 +3,7 @@ layout: page
 title: Intergroup Violence & Political Attitudes
 img: assets/img/7.jpg
 importance: 2
-category: horizontal contestations
+category: horizontal contestation
 ---
 
 ## Project overview
