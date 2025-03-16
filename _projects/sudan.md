@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intergroup Violence & Political Attitudes
+title: Intergroup Violence and Political Attitudes
 img: assets/img/7.jpg
 importance: 2
 category: horizontal contestation
@@ -21,3 +21,5 @@ category: horizontal contestation
   {% bibliography -f papers -q @*[proj~=sudan]* %}
 
 </div>
+
+

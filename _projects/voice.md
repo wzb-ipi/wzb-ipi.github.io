@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Does Political Voice Change Women’s Prosociality?
+title: Does Political Voice Change Women's Prosociality?
 img: assets/img/voice.jpg
 importance: 2
 category: vertical linkages
@@ -21,3 +21,5 @@ category: vertical linkages
   {% bibliography -f papers -q @*[proj~=voice]* %}
 
 </div>
+
+

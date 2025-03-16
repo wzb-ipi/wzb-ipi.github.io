@@ -3,14 +3,14 @@ layout: page
 title: Ethics in Development Research
 img: assets/img/5.jpg
 importance: 2
-category: exclusion
+category: exclusion 
 ---
 
 ## Project overview
 
 <div class="publications">
 
-  {% bibliography -f projects -q @*[proj~=harm]* %}
+  {% bibliography -f projects -q @*[proj~=harm ]* %}
 
 </div>
 
@@ -18,6 +18,8 @@ category: exclusion
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[proj~=harm]* %}
+  {% bibliography -f papers -q @*[proj~=harm ]* %}
 
 </div>
+
+

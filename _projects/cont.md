@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Political Contexts
+title: Political Connections
 img: assets/img/9.jpg
 importance: 2
 category: elite connections
@@ -21,3 +21,5 @@ category: elite connections
   {% bibliography -f papers -q @*[proj~=cont]* %}
 
 </div>
+
+

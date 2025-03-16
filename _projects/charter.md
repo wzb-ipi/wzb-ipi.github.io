@@ -21,3 +21,5 @@ category: vertical linkages
   {% bibliography -f papers -q @*[proj~=charter]* %}
 
 </div>
+
+

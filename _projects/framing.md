@@ -10,7 +10,7 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f projects -q @*[proj~=framing]* %}
+  {% bibliography -f projects -q @*[proj~=framing ]* %}
 
 </div>
 
@@ -18,6 +18,8 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[proj~=framing]* %}
+  {% bibliography -f papers -q @*[proj~=framing ]* %}
 
 </div>
+Pre-analysis plan available at: https://osf.io/cptxs 
+

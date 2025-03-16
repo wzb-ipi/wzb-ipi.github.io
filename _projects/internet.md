@@ -3,7 +3,7 @@ layout: page
 title: Pulling through elections by pulling the plug
 img: assets/img/5.jpg
 importance: 2
-category: exclusion
+category: exclusion 
 ---
 
 ## Project overview
@@ -21,3 +21,5 @@ category: exclusion
   {% bibliography -f papers -q @*[proj~=internet]* %}
 
 </div>
+
+

@@ -21,3 +21,5 @@ category: horizontal contestation
   {% bibliography -f papers -q @*[proj~=socialcont]* %}
 
 </div>
+
+

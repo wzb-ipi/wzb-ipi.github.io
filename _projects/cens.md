@@ -3,7 +3,7 @@ layout: page
 title: Deterrence or Backlash?
 img: assets/img/9.jpg
 importance: 2
-category: exclusion
+category: exclusion 
 ---
 
 ## Project overview
@@ -21,3 +21,5 @@ category: exclusion
   {% bibliography -f papers -q @*[proj~=cens]* %}
 
 </div>
+
+

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Qualitative & Mixed Methods Inference 
+title: Qualitative and Mixed Methods Inference
 img: assets/img/10.jpg
 importance: 2
 category: methods
@@ -21,3 +21,5 @@ category: methods
   {% bibliography -f papers -q @*[proj~=inference]* %}
 
 </div>
+
+
