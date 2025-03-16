@@ -21,4 +21,5 @@ category: exclusion
   {% bibliography -f papers -q @*[proj~=hidden]* %}
 
 </div>
-Pre-analysis plan available at: https://osf.io/pnqmv 
+* Pre-analysis plan available at: [https://osf.io/pnqmv](https://osf.io/pnqmv) 
+* See GitHub repo at: [https://github.com/gerasy1987/hiddenmeta/](https://github.com/gerasy1987/hiddenmeta/) 

@@ -21,5 +21,5 @@ category: vertical linkages
   {% bibliography -f papers -q @*[proj~=framing ]* %}
 
 </div>
-Pre-analysis plan available at: https://osf.io/cptxs 
+* Pre-analysis plan available at: [https://osf.io/cptxs](https://osf.io/cptxs) 
 

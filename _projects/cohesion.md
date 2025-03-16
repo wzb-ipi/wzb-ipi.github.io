@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inclusive Governance and Social Cohesion
-img: assets/img/lebanon.jpg
+img: assets/img/lebanon_2025.jpg
 importance: 2
 category: vertical linkages
 ---
