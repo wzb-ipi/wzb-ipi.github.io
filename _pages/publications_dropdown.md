@@ -2,6 +2,7 @@
 layout: page
 title: writing
 permalink: /writing/
+nav: true
 nav_order: 1
 dropdown: true
 children: 
@@ -9,6 +10,8 @@ children:
       permalink: /writing/by_year
     - title: by topic
       permalink: /writing/themes
+    - title: discussion
+      permalink: /writing/discussion
     - title: unpublished
       permalink: /writing/wps
 ---
