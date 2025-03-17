@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gender Gap in Politician Performance 
+subtitle: Networks and the Size of the Gender Gap in Politician Performance Across Job Duties
 img: assets/img/9.jpg
 importance: 12
 category: vertical linkages

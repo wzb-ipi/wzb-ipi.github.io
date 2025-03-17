@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research Design
+subtitle: Tools for transparent research design
 img: assets/img/dd.jpg
 importance: 2
 category: methods

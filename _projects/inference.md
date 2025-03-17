@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Qualitative and Mixed Methods Inference
+subtitle:  Bayesian approaches
 img: assets/img/inferences.jpg
 importance: 1
 category: methods

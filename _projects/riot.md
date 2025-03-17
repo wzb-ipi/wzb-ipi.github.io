@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Anatomy of a Riot
+subtitle: Participation in Ethnic Violence in Nigeria
 img: assets/img/5.jpg
 importance: 5
 category: exclusion 

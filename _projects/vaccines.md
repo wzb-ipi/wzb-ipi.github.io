@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vaccine politics
+subtitle: Allocation  decisions in times of Crisis
 img: assets/img/vaccine.png
 importance: 5
 category: vertical linkages

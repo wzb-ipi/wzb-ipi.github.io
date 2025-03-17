@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Citizen Legibility
+subtitle: A study of Digitalization and Intergroup Inequality in Kenya
 img: assets/img/publication_preview/thumbprint_edit.jpg
 importance: 1
 category: vertical linkages

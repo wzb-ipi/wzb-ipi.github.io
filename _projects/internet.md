@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Internet disruptions
+subtitle: Internet disruptions and electoral violence in Uganda
 img: assets/img/5.jpg
 importance: 3
 category: exclusion 
