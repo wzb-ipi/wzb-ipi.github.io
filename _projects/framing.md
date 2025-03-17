@@ -2,7 +2,7 @@
 layout: page
 title: Narratives of Repression
 subtitle: A Framing Experiment in Zimbabwe
-img: assets/img/zim2.jpg
+img: assets/img/framing.jpg
 importance: 2
 category: vertical linkages
 ---
