@@ -2,7 +2,7 @@
 layout: page
 title: Digital politics
 subtitle: Internet disruptions,  mobilization, and electoral violence
-img: assets/img/internet.jpg
+img: assets/img/internet.png
 importance: 3
 category: exclusion 
 ---
