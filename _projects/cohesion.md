@@ -1,0 +1,25 @@
+---
+layout: page
+title: Social Cohesion, Lebanon
+img: assets/img/lebanon_2025.jpg
+importance: 1
+category: vertical linkages
+---
+
+## Project overview
+
+<div class="publications">
+
+  {% bibliography -f projects -q @*[proj~=cohesion]* %}
+
+</div>
+
+## Documents
+
+<div class="publications">
+
+  {% bibliography -f papers -q @*[proj~=cohesion]* %}
+
+</div>
+
+

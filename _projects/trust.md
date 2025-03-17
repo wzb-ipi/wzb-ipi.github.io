@@ -1,0 +1,25 @@
+---
+layout: page
+title: Vulnerability and Trust after COVID-19
+img: assets/img/covid.jpg
+importance: 14
+category: exclusion 
+---
+
+## Project overview
+
+<div class="publications">
+
+  {% bibliography -f projects -q @*[proj~=trust]* %}
+
+</div>
+
+## Documents
+
+<div class="publications">
+
+  {% bibliography -f papers -q @*[proj~=trust]* %}
+
+</div>
+
+
