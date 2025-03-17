@@ -11,8 +11,8 @@ children:
     - title: by topic
       permalink: /writing/by_theme
     - title: divider
-    - title: peer reviewd
-      permalink: /writing/published
+    - title: peer reviewed
+      permalink: /writing/peer
     - title: unpublished
       permalink: /writing/wps
     - title: discussion
