@@ -2,7 +2,7 @@
 layout: page
 title: Political Accountability in South Africa
 img: assets/img/7.jpg
-importance: 2
+importance: 9
 category: vertical linkages
 ---
 
