@@ -2,7 +2,7 @@
 layout: page
 title: Political protest
 subtitle: political violence
-img: assets/img/protest.jpg
+img: assets/img/protests.jpg
 importance: 2
 category: exclusion 
 ---
