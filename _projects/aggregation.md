@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Aggregation Challenge
-img: assets/img/10.jpg
+img: assets/img/aggregation.jpg
 importance: 5
 category: methods
 ---
