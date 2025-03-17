@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Political Connections
-subtitle: Measuring connectiosn between political and business elites
+subtitle: Measuring connections between political and business elites
 img: assets/img/cont.jpg
 importance: 5
 category: elite connections
@@ -11,7 +11,7 @@ category: elite connections
 
 <div class="publications">
 
-  {% bibliography -f projects -q @*[proj~=cont]* %}
+  {% bibliography -f projects -q @*[proj~=connections]* %}
 
 </div>
 
@@ -19,7 +19,7 @@ category: elite connections
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[proj~=cont]* %}
+  {% bibliography -f papers -q @*[proj~=connections]* %}
 
 </div>
 

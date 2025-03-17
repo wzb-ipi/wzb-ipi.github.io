@@ -11,7 +11,7 @@ category: exclusion
 
 <div class="publications">
 
-  {% bibliography -f projects -q @*[proj~=cens]* %}
+  {% bibliography -f projects -q @*[proj~=censorship]* %}
 
 </div>
 
@@ -19,7 +19,7 @@ category: exclusion
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[proj~=cens]* %}
+  {% bibliography -f papers -q @*[proj~=censorship]* %}
 
 </div>
 
