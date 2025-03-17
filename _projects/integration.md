@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Decentralization and Identification
+title: Autonomy and Identification
 subtitle: Indigenous Autonomy, State Authority, and National Identity in the Philippines
 img: assets/img/integration.jpg
 importance: 14
