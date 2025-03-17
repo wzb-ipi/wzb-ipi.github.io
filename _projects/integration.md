@@ -1,8 +1,9 @@
 ---
 layout: page
-title: From Recognition to Integration
-img: assets/img/6.jpg
-importance: 2
+title: Decentralization and Identification
+subtitle: Indigenous Autonomy, State Authority, and National Identity in the Philippines
+img: assets/img/integration.jpg
+importance: 14
 category: vertical linkages
 ---
 
@@ -21,3 +22,6 @@ category: vertical linkages
   {% bibliography -f papers -q @*[proj~=integration]* %}
 
 </div>
+
+
+

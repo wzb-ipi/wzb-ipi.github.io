@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Challenging Narratives of Repression
+title: Narratives of Repression
+subtitle: A Framing Experiment in Zimbabwe
 img: assets/img/zim2.jpg
 importance: 2
 category: vertical linkages
@@ -10,7 +11,7 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f projects -q @*[proj~=framing]* %}
+  {% bibliography -f projects -q @*[proj~=framing ]* %}
 
 </div>
 
@@ -18,6 +19,9 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[proj~=framing]* %}
+  {% bibliography -f papers -q @*[proj~=framing ]* %}
 
 </div>
+* Pre-analysis plan available at: [https://osf.io/cptxs](https://osf.io/cptxs) 
+
+

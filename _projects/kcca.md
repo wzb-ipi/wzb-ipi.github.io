@@ -1,0 +1,27 @@
+---
+layout: page
+title: The Kampala Citizen Charter
+subtitle: Citizen Deliberation and Bureaucratic Responsiveness in Service Provision
+img: assets/img/kcca.png
+importance: 2
+category: vertical linkages
+---
+
+## Project overview
+
+<div class="publications">
+
+  {% bibliography -f projects -q @*[proj~=kcca]* %}
+
+</div>
+
+## Documents
+
+<div class="publications">
+
+  {% bibliography -f papers -q @*[proj~=kcca]* %}
+
+</div>
+
+
+

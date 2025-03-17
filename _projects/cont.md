@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Political Contexts
-img: assets/img/9.jpg
-importance: 2
+title: Political Connections
+subtitle: Measuring connectiosn between political and business elites
+img: assets/img/cont.jpg
+importance: 5
 category: elite connections
 ---
 
@@ -21,3 +22,6 @@ category: elite connections
   {% bibliography -f papers -q @*[proj~=cont]* %}
 
 </div>
+
+
+

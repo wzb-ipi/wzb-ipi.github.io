@@ -1,8 +1,9 @@
 ---
 layout: page
 title: The Aggregation Challenge
-img: assets/img/10.jpg
-importance: 2
+subtitle: Strategies for cumulating knowledge
+img: assets/img/aggregation.jpg
+importance: 5
 category: methods
 ---
 
@@ -21,3 +22,6 @@ category: methods
   {% bibliography -f papers -q @*[proj~=aggregation]* %}
 
 </div>
+
+
+

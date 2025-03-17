@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Social Contact Theory
-img: assets/img/4.jpg
-importance: 2
-category: horizontal contestations
+title: Social Contact, Nigeria
+subtitle: Can Social Contact Reduce Prejudice and Discrimination - Evidence from a Field Experiment in Nigeria
+img: assets/img/socialcont.jpg
+importance: 7
+category: horizontal contestation
 ---
 
 ## Project overview
@@ -21,3 +22,6 @@ category: horizontal contestations
   {% bibliography -f papers -q @*[proj~=socialcont]* %}
 
 </div>
+
+
+

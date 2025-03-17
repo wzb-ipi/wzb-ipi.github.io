@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Elite Networks Project
+subtitle: Business elites and interet control
 img: assets/img/networks.png
 importance: 2
 category: elite connections
@@ -21,3 +22,6 @@ category: elite connections
   {% bibliography -f papers -q @*[proj~=net]* %}
 
 </div>
+
+
+

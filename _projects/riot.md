@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Anatomy of a Riot
-img: assets/img/5.jpg
-importance: 2
-category: exclusion
+subtitle: Participation in Ethnic Violence in Nigeria
+img: assets/img/riot.jpg
+importance: 5
+category: exclusion 
 ---
 
 ## Project overview
@@ -21,3 +22,6 @@ category: exclusion
   {% bibliography -f papers -q @*[proj~=riot]* %}
 
 </div>
+
+
+

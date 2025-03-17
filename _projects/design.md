@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Research Design
-img: assets/img/9.jpg
+subtitle: Tools for transparent research design
+img: assets/img/dd.jpg
 importance: 2
 category: methods
 ---
@@ -21,3 +22,6 @@ category: methods
   {% bibliography -f papers -q @*[proj~=design]* %}
 
 </div>
+
+
+

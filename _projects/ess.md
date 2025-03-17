@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Participation in EU politics
-img: assets/img/10.jpg
+subtitle: Using ESS data to assess who participates or not in European politics
+img: assets/img/ess.png
 importance: 2
 category: vertical linkages
 ---
@@ -21,3 +22,6 @@ category: vertical linkages
   {% bibliography -f papers -q @*[proj~=ess]* %}
 
 </div>
+
+
+

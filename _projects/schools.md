@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Ethnic homophily or moving to opportunities?
-img: assets/img/9.jpg
-importance: 2
-category: horizontal contestations
+title: Ethnic homophily in School Choices
+subtitle: Evidence from school choice data in Berlin
+img: assets/img/school_sorting.jpg
+importance: 6
+category: horizontal contestation
 ---
 
 ## Project overview
@@ -21,3 +22,8 @@ category: horizontal contestations
   {% bibliography -f papers -q @*[proj~=schools]* %}
 
 </div>
+
+
+
+Other documents: 
+* [Slides](https://macartan.github.io/slides/2025_sorting.html#/title-slide) 

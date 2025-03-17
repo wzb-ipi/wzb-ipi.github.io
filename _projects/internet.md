@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Pulling through elections by pulling the plug
-img: assets/img/5.jpg
-importance: 2
-category: exclusion
+title: Internet disruptions
+subtitle: Internet disruptions and electoral violence in Uganda
+img: assets/img/internet.jpg
+importance: 3
+category: exclusion 
 ---
 
 ## Project overview
@@ -21,3 +22,6 @@ category: exclusion
   {% bibliography -f papers -q @*[proj~=internet]* %}
 
 </div>
+
+
+

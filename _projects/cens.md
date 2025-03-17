@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Deterrence or Backlash?
-img: assets/img/9.jpg
-importance: 2
-category: exclusion
+title: Internet access and political mobilization
+subtitle: How Online Censorship Affects Offline Protest
+img: assets/img/cens.jpg
+importance: 3
+category: exclusion 
 ---
 
 ## Project overview
@@ -21,3 +22,6 @@ category: exclusion
   {% bibliography -f papers -q @*[proj~=cens]* %}
 
 </div>
+
+
+

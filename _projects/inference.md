@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Qualitative & Mixed Methods Inference 
-img: assets/img/10.jpg
-importance: 2
+title: Qualitative and Mixed Methods Inference
+subtitle:  Bayesian approaches
+img: assets/img/inferences.jpg
+importance: 1
 category: methods
 ---
 
@@ -21,3 +22,6 @@ category: methods
   {% bibliography -f papers -q @*[proj~=inference]* %}
 
 </div>
+
+
+

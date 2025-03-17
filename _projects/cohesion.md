@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Inclusive Governance & Social Cohesion
-img: assets/img/lebanon.jpg
-importance: 2
+title: Social Cohesion, Lebanon
+subtitle: Lessons from Lebanese Municipalities
+img: assets/img/lebanon_2025.jpg
+importance: 1
 category: vertical linkages
 ---
 
@@ -21,3 +22,6 @@ category: vertical linkages
   {% bibliography -f papers -q @*[proj~=cohesion]* %}
 
 </div>
+* Pre-analysis plan available at: [https://osf.io/97jsf](https://osf.io/97jsf) 
+
+

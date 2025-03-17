@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Irregular Migration in Nigeria
+subtitle: Irregular Migration and Misinformation in Nigeria
 img: assets/img/migration-nigeria.png
 importance: 2
-category: exclusion
+category: exclusion 
 ---
 
 ## Project overview
@@ -21,3 +22,6 @@ category: exclusion
   {% bibliography -f papers -q @*[proj~=irr]* %}
 
 </div>
+
+
+
