@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Political and Social Correlates of COVID-19
+title: Corona politics
 subtitle: Explaining cross national variation
 img: assets/img/covid.jpg
 importance: 8

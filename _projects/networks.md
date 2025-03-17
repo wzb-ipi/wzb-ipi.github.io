@@ -11,7 +11,7 @@ category: elite connections
 
 <div class="publications">
 
-  {% bibliography -f projects -q @*[proj~=net]* %}
+  {% bibliography -f projects -q @*[proj~=networks]* %}
 
 </div>
 
@@ -19,7 +19,7 @@ category: elite connections
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[proj~=net]* %}
+  {% bibliography -f papers -q @*[proj~=networks]* %}
 
 </div>
 
