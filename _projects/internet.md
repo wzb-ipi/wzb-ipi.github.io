@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Internet disruptions
-subtitle: Internet disruptions and electoral violence in Uganda
+title: Digital politics
+subtitle: Internet disruptions,  mobilization, and electoral violence
 img: assets/img/internet.jpg
 importance: 3
 category: exclusion 
