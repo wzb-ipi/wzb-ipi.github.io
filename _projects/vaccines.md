@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vaccine politics
-img: assests/img/vaccine.png
+img: assets/img/vaccine.png
 importance: 5
 category: vertical linkages
 ---
@@ -21,5 +21,6 @@ category: vertical linkages
   {% bibliography -f papers -q @*[proj~=vaccines]* %}
 
 </div>
+
 
 

@@ -23,3 +23,5 @@ category: horizontal contestation
 </div>
 
 
+Other documents: 
+* [Slides](https://macartan.github.io/slides/2025_sorting.html#/title-slide) 
