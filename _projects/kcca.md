@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Participation in EU politics
-img: assets/img/ess.png
+title: The Kampala Citizen Charter
+img: assets/img/kcca.png
 importance: 2
 category: vertical linkages
 ---
@@ -10,7 +10,7 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f projects -q @*[proj~=ess]* %}
+  {% bibliography -f projects -q @*[proj~=kcca]* %}
 
 </div>
 
@@ -18,7 +18,7 @@ category: vertical linkages
 
 <div class="publications">
 
-  {% bibliography -f papers -q @*[proj~=ess]* %}
+  {% bibliography -f papers -q @*[proj~=kcca]* %}
 
 </div>
 

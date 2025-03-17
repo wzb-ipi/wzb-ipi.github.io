@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hidden populations
-img: assets/img/
+img: assets/img/hidden.jpg
 importance: 4
 category: exclusion 
 ---

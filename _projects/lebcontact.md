@@ -21,5 +21,5 @@ category: horizontal contestation
   {% bibliography -f papers -q @*[proj~=lebcontact]* %}
 
 </div>
-* Pre-analysis plan available at: [https://osf.io/97jsf](https://osf.io/97jsf) 
+
 
