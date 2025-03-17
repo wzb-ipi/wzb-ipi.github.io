@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Social Contact Theory
+title: Social Contact, Nigeria
 img: assets/img/4.jpg
 importance: 2
 category: horizontal contestation

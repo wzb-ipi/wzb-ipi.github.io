@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ethnic homophily or moving to opportunities?
-img: assets/img/9.jpg
+title: Ethnic homophily in School Choices
+img: assets/img/school_sorting.jpg
 importance: 2
 category: horizontal contestation
 ---

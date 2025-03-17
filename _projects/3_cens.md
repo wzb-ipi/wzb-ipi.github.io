@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deterrence or Backlash?
+title: Internet access and political mobilization
 img: assets/img/9.jpg
 importance: 2
 category: exclusion 

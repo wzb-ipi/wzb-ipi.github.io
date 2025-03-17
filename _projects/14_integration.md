@@ -1,6 +1,6 @@
 ---
 layout: page
-title: From Recognition to Integration
+title: Decentralization and Identification
 img: assets/img/6.jpg
 importance: 2
 category: vertical linkages

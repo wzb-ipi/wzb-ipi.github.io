@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Gender Gap in Politician Performance 
+title: Gender Gap in Politician Performance 
 img: assets/img/9.jpg
 importance: 2
 category: vertical linkages

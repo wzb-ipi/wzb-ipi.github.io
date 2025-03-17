@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who wants to be legible?
+title: Citizen Legibility
 img: assets/img/publication_preview/thumbprint_edit.jpg
 importance: 2
 category: vertical linkages
