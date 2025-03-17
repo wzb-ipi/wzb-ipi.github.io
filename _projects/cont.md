@@ -2,7 +2,7 @@
 layout: page
 title: Political Connections
 subtitle: Measuring connectiosn between political and business elites
-img: assets/img/9.jpg
+img: assets/img/cont.jpg
 importance: 5
 category: elite connections
 ---

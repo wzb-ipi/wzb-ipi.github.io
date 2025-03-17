@@ -2,7 +2,7 @@
 layout: page
 title: Political and Social Correlates of COVID-19
 subtitle: Explaining cross national variation
-img: assets/img/5.jpg
+img: assets/img/covid.jpg
 importance: 8
 category: exclusion 
 ---

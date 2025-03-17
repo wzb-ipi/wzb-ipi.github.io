@@ -2,7 +2,7 @@
 layout: page
 title: Internet access and political mobilization
 subtitle: How Online Censorship Affects Offline Protest
-img: assets/img/9.jpg
+img: assets/img/cens.jpg
 importance: 3
 category: exclusion 
 ---

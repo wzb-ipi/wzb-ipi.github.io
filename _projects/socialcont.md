@@ -2,7 +2,7 @@
 layout: page
 title: Social Contact, Nigeria
 subtitle: Can Social Contact Reduce Prejudice and Discrimination - Evidence from a Field Experiment in Nigeria
-img: assets/img/4.jpg
+img: assets/img/socialcont.jpg
 importance: 7
 category: horizontal contestation
 ---
