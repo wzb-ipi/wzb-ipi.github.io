@@ -10,7 +10,7 @@ nav: false
 <!-- _pages/publications.md -->
 <div class="publications">
 
-  {% bibliography -f papers -q @*[type~=peer]* %}
+  {% bibliography -f papers -q @*[status~=peer]* %}
 
 </div>
 
