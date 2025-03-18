@@ -27,6 +27,10 @@
   - firstname: ["Jonah", "Jon", "J"]
     url: https://jonfoong.github.io/
 
+"Guo":
+  - firstname: ["Yuequan", "Y"]
+    url: https://yuequanguo.com/
+
 "Humphreys":
   - firstname: ["Macartan", "M"]
     url: https://macartan.github.io/
@@ -36,32 +40,11 @@
     url: https://www.wzb.eu/en/persons/kelly-zhang
 
 
-"Geissler":
-  - firstname: [“Ferdinand”, “F.”, “F”]
-    url: https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/geisslerferdinand
-
-
-"Hartmann":
-  - firstname: ["Felix", "F", "F,"]
-    url: https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/felix_hartmann
-
 "Huck":
   - firstname: ["Steffen", "S"]
     url: https://www.wzb.eu/de/personen/steffen-huck
 
 
-
-"Kluever":
-  - firstname: ["Heike", "H"]
-    url: http://www.heike-kluever.com/
-
-"Kl{\"u}ver":
-  - firstname: ["Heike", "H"]
-    url: http://www.heike-kluever.com/
-
-"Klüver":
-  - firstname: ["Heike", "H"]
-    url: http://www.heike-kluever.com/
 
 
 
@@ -73,10 +56,6 @@
 "McMurry":
   - firstname: ["Nina", "N.", "N"]
     url: https://www.ninamcmurry.com/
-
-"Schweighofer-Kodritsch":
-  - firstname: ["Sebastian", "S"]
-    url: https://sites.google.com/site/sebastiankodritsch/
 
 
 "Tietz":
