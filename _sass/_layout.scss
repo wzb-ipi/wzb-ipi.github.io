@@ -52,7 +52,7 @@ body.sticky-bottom-footer {
 .project-container {
     display: flex;
     flex-wrap: wrap;
-    align-items: stretch;
+    justify-content: space-between;
 }
 
 .project-card {
