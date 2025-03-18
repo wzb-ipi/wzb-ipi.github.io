@@ -13,13 +13,11 @@ body {
 }
 
 body.fixed-top-nav {
-  // Add some padding for the nav-bar.
-  padding-top: 56px;
+  padding-top: 56px; // Add some padding for the nav-bar.
 }
 
 body.sticky-bottom-footer {
-  // Remove padding below footer.
-  padding-bottom: 0;
+  padding-bottom: 0; // Remove padding below footer.
 }
 
 .container {
@@ -35,24 +33,21 @@ body.sticky-bottom-footer {
 
 // TODO: redefine content layout.
 
-
 /******************************************************************************
  * Publications
  ******************************************************************************/
 
 // TODO: redefine publications layout.
 
-
 /*****************************************************************************
-* Projects
-*****************************************************************************/
-
-// TODO: redefine projects layout.
+ * Projects
+ *****************************************************************************/
 
 .project-container {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    flex-wrap: wrap; /* Allows items to wrap */
+    justify-content: flex-start; /* Aligns items at the start with no extra space */
+    margin: -10px; /* Adjust margin to remove extra space caused by child margin */
 }
 
 .project-card {
@@ -60,22 +55,31 @@ body.sticky-bottom-footer {
     flex-direction: column;
     justify-content: space-between; /* Keeps content spaced evenly */
     min-height: 300px; /* Set a minimum height */
-    flex: 1 0 30%; /* Makes the card flexible; adjust 30% to control how many per row */
-    margin: 10px; /* Optional: adds some space between the cards */
-    box-sizing: border-box; /* Ensures padding and border are included in the height-calculation */
+    flex: 1 0 calc(33.333% - 20px); /* Set width to fill 3 columns and account for margins */
+    margin: 10px; /* Adds space between the cards */
+    box-sizing: border-box; /* Ensures padding and border are included in the height calculation */
 }
 
 .project-card .card-body {
-    flex-grow: 1;
-} 
-
-.project-card {
-    min-height: 300px; 
+    flex-grow: 1; /* Allows the body to expand to fill available space */
 }
 
 .project-card img {
     width: 100%;
-    height: auto;       /* Keeps the aspect ratio */
-    max-height: 250px;  /* Prevents images from becoming too tall */
-    object-fit: cover;
+    height: auto; /* Maintains the aspect ratio */
+    max-height: 250px; /* Prevents images from becoming too tall */
+    object-fit: cover; /* Ensures images cover the area appropriately */
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+    .project-card {
+        flex: 1 0 calc(50% - 20px); /* Stacks 2 cards per row on smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .project-card {  
+        flex: 1 0 calc(100% - 20px); /* Stacks all cards in a single column on very small screens */
+    }
 }
