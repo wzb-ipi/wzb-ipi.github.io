@@ -23,5 +23,5 @@ category: methods
 
 </div>
 
-
+* See GitHub repo at: [https://github.com/DeclareDesign/DeclareDesign](https://github.com/DeclareDesign/DeclareDesign) 
 
