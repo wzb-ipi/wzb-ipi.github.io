@@ -48,3 +48,20 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+.project-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+.project-card .card-body {
+    flex-grow: 1;
+} 
