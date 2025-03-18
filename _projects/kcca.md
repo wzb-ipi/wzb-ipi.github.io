@@ -2,7 +2,7 @@
 layout: page
 title: The Kampala Citizen Charter
 subtitle: Citizen Deliberation and Bureaucratic Responsiveness in Service Provision
-img: assets/img/kcca.png
+img: assets/img/uganda.JPG
 importance: 2
 category: vertical linkages
 ---

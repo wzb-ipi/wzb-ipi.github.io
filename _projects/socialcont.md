@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Social Contact, Nigeria
+title: Social Contact in Nigeria
 subtitle: Can Social Contact Reduce Prejudice and Discrimination - Evidence from a Field Experiment in Nigeria
 img: assets/img/socialcont.jpg
 importance: 7
