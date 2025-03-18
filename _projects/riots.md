@@ -4,7 +4,7 @@ title: Riots in Nigeria
 subtitle: Who participates in inter-religious conflict?
 img: assets/img/lebanon_2025.jpg
 importance: 1
-category: 
+category: horizontal contestation
 ---
 
 ## Project overview

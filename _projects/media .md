@@ -4,7 +4,7 @@ title: Media and intergroup relations
 subtitle: 
 img: assets/img/socialcont.png
 importance: 1
-category: 
+category: horizontal contestation
 ---
 
 ## Project overview
