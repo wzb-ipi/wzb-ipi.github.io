@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: IPI Research Repository
 profile:
@@ -8,6 +8,7 @@ profile:
   image: IPI-group-picture-2023.png
   image_circular: false
   image_width: 100vw
+  image_credit: "Foto: Jacobia Dahm"
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -19,7 +20,8 @@ The Institutions and Political Inequality (IPI) research unit at the WZB studies
 
 * This repository gives details on [projects](https://wzb-ipi.github.io/projects/) and [publications](https://wzb-ipi.github.io/writing/by_theme/). 
 
-* For more about our research group---people, openings, events---see our main page at [wzb.eu](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality)
+* For more about our research group---[people](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality/people), openings, [events](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality/events)---see our main page at [wzb.eu](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality)
+
 
 
 _____

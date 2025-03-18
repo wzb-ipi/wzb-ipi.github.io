@@ -1,5 +1,3 @@
-"WD":
-  url: https://www.sciencedirect.com/journal/world-development
 
 "AJPS":
   url: https://onlinelibrary.wiley.com/journal/15405907
@@ -21,24 +19,27 @@
  url: https://journals.sagepub.com/home/JCR
  color: "pink"
 
-"PA":
- url: https://www.cambridge.org/core/journals/political-analysis
+"ARPS":
+ url: https://www.annualreviews.org/journal/polisci
  color: "pink"
 
+"WD":
+  url: https://www.sciencedirect.com/journal/world-development
+  color: "blue"
 
 "WorldPol":
  url: https://www.cambridge.org/core/journals/world-politics
  color: "pink"
 
+"PA":
+ url: https://www.cambridge.org/core/journals/political-analysis
+ color: "green"
+
 "WP":
  color: "grey"
- 
-"ARPS":
- url: https://www.annualreviews.org/journal/polisci
- color: "pink"
-
 
 "M":
  url: https://www.wzb.eu/de/publikationen/wzb-mitteilungen
- color: "green"
+ color: "purple"
+ 
 
