@@ -65,3 +65,10 @@ body.sticky-bottom-footer {
 .project-card .card-body {
     flex-grow: 1;
 } 
+
+.project-card img {
+    width: 100%;        /* Makes the image fill the width of the card */
+    height: 200px;      /* Sets a fixed height (adjust as needed) */
+    object-fit: cover;  /* Ensures the image fills the area without distortion */
+    display: block;     /* Removes any unwanted spacing below images */
+}
