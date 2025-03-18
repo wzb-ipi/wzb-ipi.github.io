@@ -5,7 +5,7 @@ permalink: /projects/
 description: ipi projects.
 nav: true
 nav_order: 2
-display_categories: [vertical linkages, horizontal contestation, elite connections, exclusion, methods]
+display_categories: [vertical linkages, horizontal contestation, exclusion, elite connections, methods]
 horizontal: false
 ---
 
