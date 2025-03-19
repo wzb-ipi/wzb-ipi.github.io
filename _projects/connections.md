@@ -26,4 +26,4 @@ category: elite connections
 
 
 Other documents: 
-* [Slides] (assets/pdf/other/guo_elites_connections.pdf) 
+* [Slides](assets/pdf/other/guo_elites_connections.pdf) 

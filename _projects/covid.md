@@ -25,3 +25,5 @@ category: exclusion
 
 
 
+Other documents: 
+* [Correlates of Corona](https://wzb-ipi.github.io/corona/) 
