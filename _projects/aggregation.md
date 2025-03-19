@@ -2,7 +2,7 @@
 layout: page
 title: The Aggregation Challenge
 subtitle: Strategies for cumulating knowledge
-img: assets/img/aggregation.jpg
+img: assets/img/aggregation.png
 importance: 5
 category: methods
 ---
