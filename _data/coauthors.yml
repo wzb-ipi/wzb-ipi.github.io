@@ -6,7 +6,10 @@
   - firstname: ["Nora", "N"]
     url: https://www.wzb.eu/en/persons/nora-chirikure
 
- 
+ "Naumann":
+  - firstname: ["Lennard", "L"]
+    url: https://www.wzb.eu/de/personen/lennard-naumann
+    
 "Hilbig":
   - firstname: ["Hanno"]
     url: https://www.hannohilbig.com/
