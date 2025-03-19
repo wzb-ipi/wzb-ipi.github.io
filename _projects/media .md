@@ -2,7 +2,7 @@
 layout: page
 title: Media and intergroup relations
 subtitle: 
-img: assets/img/socialcont.png
+img: assets/img/media.png
 importance: 1
 category: horizontal contestation
 ---

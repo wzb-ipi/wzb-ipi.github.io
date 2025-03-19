@@ -2,7 +2,7 @@
 layout: page
 title: Riots in Nigeria
 subtitle: Who participates in inter-religious conflict?
-img: assets/img/riots.jpg
+img: assets/img/riots.png
 importance: 2
 category: horizontal contestation
 ---
