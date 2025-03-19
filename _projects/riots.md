@@ -2,7 +2,7 @@
 layout: page
 title: Riots in Nigeria
 subtitle: Who participates in inter-religious conflict?
-img: assets/img/lebanon_2025.jpg
+img: assets/img/riots.jpg
 importance: 2
 category: horizontal contestation
 ---
@@ -25,5 +25,3 @@ category: horizontal contestation
 
 
 
-Other documents: 
-https://www.wzb.eu/system/files/docs/ped/ipi/Scacco_Anatomy_of_a_Riot_Introduction.pdf 
