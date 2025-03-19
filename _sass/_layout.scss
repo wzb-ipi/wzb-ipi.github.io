@@ -43,3 +43,38 @@ body.sticky-bottom-footer {
  * Projects
  *****************************************************************************/
 
+<<<<<<< Updated upstream
+=======
+// TODO: redefine projects layout.
+
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+.project-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Keeps content spaced evenly */
+    min-height: 300px; /* Set a minimum height */
+    flex: 1 0 30%; /* Makes the card flexible; adjust 30% to control how many per row */
+    margin: 10px; /* Optional: adds some space between the cards */
+    box-sizing: border-box; /* Ensures padding and border are included in the height-calculation */
+}
+
+.project-card .card-body {
+    flex-grow: 1;
+} 
+
+.project-card {
+    min-height: 300px; 
+}
+
+.project-card img {
+    width: 100%;
+    height: auto;       /* Keeps the aspect ratio */
+    max-height: 250px;  /* Prevents images from becoming too tall */
+    object-fit: cover;
+}
+>>>>>>> Stashed changes
