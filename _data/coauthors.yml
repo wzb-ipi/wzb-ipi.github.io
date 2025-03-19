@@ -48,8 +48,13 @@
     url: https://www.wzb.eu/de/personen/steffen-huck
 
 
+"Beber":
+  - firstname: ["Bernd", "B", "B."]
+    url: https://www.rwi-essen.de/en/rwi/team/person/bernd-beber
 
-
+"Jaiteh":
+  - firstname: ["Salif", "S", "S."]
+    url: https://www.idinsight.org/person/salif-jaiteh/
 
 "Medina":
   - firstname: ["Lily", "L", "L."]
