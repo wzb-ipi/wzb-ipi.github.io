@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Social Cohesion in Lebanon
+title: Vertical Social Cohesion in Lebanon
 subtitle: Lessons from Lebanese Municipalities
 img: assets/img/lebanon_2025.jpg
 importance: 1

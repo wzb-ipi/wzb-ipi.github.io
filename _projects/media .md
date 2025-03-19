@@ -2,9 +2,9 @@
 layout: page
 title: Media and intergroup relations
 subtitle: 
-img: assets/img/lebanon_2025.jpg
+img: assets/img/socialcont.png
 importance: 1
-category: 
+category: horizontal contestation
 ---
 
 ## Project overview
