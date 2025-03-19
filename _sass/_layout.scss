@@ -6,7 +6,7 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
-  
+
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
   }
@@ -31,46 +31,15 @@ body.sticky-bottom-footer {
   }
 }
 
+// TODO: redefine content layout.
+
 /******************************************************************************
+ * Publications
+ ******************************************************************************/
+
+// TODO: redefine publications layout.
+
+/*****************************************************************************
  * Projects
  *****************************************************************************/
 
-.project-container {
-    display: flex;
-    flex-wrap: wrap; /* Allows items to wrap onto the next line */
-    margin: -10px; /* Negative margin to counteract card margins */
-}
-
-.project-card {
-    display: flex; 
-    flex-direction: column;
-    justify-content: space-between; /* Keeps content spaced evenly */
-    min-height: 300px; /* Ensures all cards maintain height */
-    flex: 1 0 30%; /* Cards take 30% width but with flexibility */
-    margin: 10px; /* Space around each card */
-    box-sizing: border-box; /* Includes padding and borders in total width/height */
-}
-
-.project-card .card-body {
-    flex-grow: 1; /* Makes card body fill available space */
-}
-
-.project-card img {
-    width: 100%;
-    height: auto; /* Maintains aspect ratio */
-    max-height: 250px; /* Prevents images from becoming too tall */
-    object-fit: cover;
-}
-
-/* Media Queries for Responsiveness */
-@media (max-width: 768px) {
-    .project-card {
-        flex: 1 0 45%; /* Stacks 2 cards per row on medium-sized screens */
-    }
-}
-
-@media (max-width: 480px) {
-    .project-card {
-        flex: 1 0 100%; /* Stacks each card in a single column on small screens */
-    }
-}
