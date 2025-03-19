@@ -2,7 +2,7 @@
 layout: page
 title: Intergroup Violence and Political Attitudes
 subtitle: Evidence from a Dividing Sudan
-img: assets/img/sudan.jpg
+img: assets/img/sudan.png
 importance: 12
 category: horizontal contestation
 ---
