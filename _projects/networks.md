@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Elite Networks Project
-subtitle: Business elites and interet control
+subtitle: Business elites and internet control
 img: assets/img/networks.png
 importance: 2
 category: elite connections
