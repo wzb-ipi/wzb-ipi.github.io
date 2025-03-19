@@ -25,5 +25,3 @@ category: horizontal contestation
 
 
 
-Other documents: 
-* [Related podcast](https://egap.org/resource/priority-theme-seminar-series-misinformation-and-irregular-migration-in-nigeria/) 

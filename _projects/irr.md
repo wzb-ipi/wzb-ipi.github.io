@@ -22,6 +22,8 @@ category: exclusion
   {% bibliography -f papers -q @*[proj~=irr]* %}
 
 </div>
+* Pre-analysis plan available at: [https://doi.org/10.17605/OSF.IO/PFQ7H and https://doi.org/10.17605/OSF.IO/PFQ7H](https://doi.org/10.17605/OSF.IO/PFQ7H and https://doi.org/10.17605/OSF.IO/PFQ7H) 
 
 
-
+Other documents: 
+* [Related podcast](https://egap.org/resource/priority-theme-seminar-series-misinformation-and-irregular-migration-in-nigeria/) 
