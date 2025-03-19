@@ -26,4 +26,5 @@ category: exclusion
 
 
 Other documents: 
-* [Correlates of Corona](https://wzb-ipi.github.io/corona/) \n * [How usefule was social science?](https://wzb-ipi.github.io/corona/) 
+* [Correlates of Corona](https://wzb-ipi.github.io/corona/)
+* [How useful was social science?](https://wzb-ipi.github.io/corona/) 

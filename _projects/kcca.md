@@ -26,4 +26,5 @@ category: vertical linkages
 
 
 Other documents: 
-* [Related post](https://voiceuganda.com/2024/01/15/lord-mayor-lukwago-starts-work-on-kcca-citizens-charter/) \n * [Charter report](https://macartan.github.io/assets/pdf/projects/kampala_charter/20210317_report.pdf) 
+* [Related post](https://voiceuganda.com/2024/01/15/lord-mayor-lukwago-starts-work-on-kcca-citizens-charter/)
+* [Charter report](https://macartan.github.io/assets/pdf/projects/kampala_charter/20210317_report.pdf) 

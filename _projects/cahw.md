@@ -2,7 +2,7 @@
 layout: page
 title: Local bureaucracy in Sierra Leone
 subtitle: Recruiting and Incentivizing Community Service Providers in Sierra Leone
-img: assets/img/cahw.png
+img: assets/img/cahw.jpg
 importance: 2
 category: vertical linkages
 ---
