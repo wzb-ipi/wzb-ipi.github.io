@@ -22,7 +22,7 @@ category: exclusion
   {% bibliography -f papers -q @*[proj~=irr]* %}
 
 </div>
-* Pre-analysis plan available at: [https://doi.org/10.17605/OSF.IO/PFQ7H and https://doi.org/10.17605/OSF.IO/PFQ7H](https://doi.org/10.17605/OSF.IO/PFQ7H and https://doi.org/10.17605/OSF.IO/PFQ7H) 
+* Pre-analysis plan available at: [https://doi.org/10.17605/OSF.IO/PFQ7H](https://doi.org/10.17605/OSF.IO/PFQ7H) 
 
 
 Other documents: 
