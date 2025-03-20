@@ -2,7 +2,7 @@
 layout: page
 title: Ethnic homophily in School Choices
 subtitle: Evidence from school choice data in Berlin
-img: assets/img/school_sorting.jpg
+img: assets/img/school.jpg
 importance: 6
 category: horizontal contestation
 ---
