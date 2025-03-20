@@ -2,7 +2,7 @@
 layout: page
 title: Political Accountability
 subtitle: When are citizens more likely to be able to control elected representatives?
-img: assets/img/account.jpg
+img: assets/img/south-africa.jpg
 importance: 12
 category: vertical linkages
 ---

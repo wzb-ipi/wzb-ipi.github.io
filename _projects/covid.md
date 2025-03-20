@@ -2,7 +2,7 @@
 layout: page
 title: Corona politics
 subtitle: Explaining cross national variation
-img: assets/img/covid.png
+img: assets/img/corona-pol.jpg
 importance: 8
 category: exclusion 
 ---
