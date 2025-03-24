@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: ipi projects.
+description: recent and ongoing projects
 nav: true
 nav_order: 2
 display_categories: [vertical linkages, horizontal contestation, exclusion, elite connections, methods]
