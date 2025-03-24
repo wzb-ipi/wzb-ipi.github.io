@@ -22,6 +22,6 @@ category: vertical linkages
   {% bibliography -f papers -q @*[proj~=account]* %}
 
 </div>
-
-
+* Pre-analysis plan available at: [https://osf.io/hpu4a](https://osf.io/hpu4a) 
+* See GitHub repo at: [https://egap.shinyapps.io/metaketa_shiny/](https://egap.shinyapps.io/metaketa_shiny/) 
 
