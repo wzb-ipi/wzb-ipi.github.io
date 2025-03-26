@@ -22,6 +22,6 @@ category: horizontal contestation
   {% bibliography -f papers -q @*[proj~=media]* %}
 
 </div>
-
+* Pre-analysis plan available at: [assets/pdf/other/PAP_Kaduna_Radio_OSF.pdf](assets/pdf/other/PAP_Kaduna_Radio_OSF.pdf) 
 
 
