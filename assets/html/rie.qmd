@@ -17,7 +17,7 @@ library(dplyr)
 
 # Overview
 
-There is a growth in the use of Rigorous Impact Evaluation (RIE)  to learn about the effects of  development interventions.^[We do not love the term 'RIE' as it seems to imply that other strategies are not rigorous. We use it here to be consistent with [common usage](https://rie.deval.org/what-is-rie/what-is-rigorous-impact-evaluation-rie) in German development programming.] In this memo, we describe the kinds of strategies that we employ. We emphasize the benefits but we outline the potential difficulties – including procedural and ethical questions – associated with these strategies.
+There is a growth in the use of Rigorous Impact Evaluation (RIE)  to learn about the effects of  development interventions.^[We do not love the term 'RIE' as it seems to imply that other strategies are not rigorous. We use it here to be consistent with [common usage](https://rie.deval.org/what-is-rie/what-is-rigorous-impact-evaluation-rie) in German development programming.] In this memo, we describe the kinds of strategies that we employ. We emphasize the benefits, but we outline the potential difficulties – including procedural and ethical questions – associated with these strategies.
 
 The key benefits are:
 
@@ -38,15 +38,16 @@ Each of our studies is structured around the examination of a set of hypotheses.
 
 Developing and stating clear and testable hypotheses is hard because it often requires specifying more concrete claims than are required in grant applications and other writing about projects. In particular, specifying claims through hypotheses requires focusing only on measurable outcomes of programming which may not capture all the aspirations that programmers have for their programs. 
 
-There are a number of different types of hypothesis. First, hypotheses can be either qualitative or quantitative. By qualitative we mean that they suggest the direction of change, rather than the amount of change. Using these terms to describe hypotheses does not presuppose certain methods. For example, one can use quantitative survey methods to respond to a qualitative hypothesis.  
 
-An example of a qualitative hypothesis is:  
+An example of a  hypothesis is:  
+
 - **H1**: Gaining private rights to land  results in increased investments in agriculture
 
-An example of a quantitative hypothesis is:  
+It can be helpful for design purposes if hypotheses are more specific. An example of a somewhat  more specific hypothesis is:  
+
 - **H2**: Access to energy efficient stoves reduces wood consumption by at least 30%
 
-In addition, some hypotheses are "predictive" and some are "exploratory." Predictive hypotheses may be used to determine whether an intervention was successful or not in light of some previously identified set of criteria. Evidence for a predictive hypothesis suggests that a program met its objectives. In many cases, however, it is important to examine whether programs have a particular set of effects even if one is not confident that the program will have those effects. For example, a practitioner implementing a program that gives access to microcredit might predict gains in welfare but might also be interested in learning whether the program improves women’s status or political participation. The latter questions could form the basis of exploratory hypotheses; they can be used to learn about program impact but do not provide criteria for determining whether a program was formally “successful” or not.
+Some hypotheses are more "predictive" and some are more "exploratory." Predictive hypotheses may be used to determine whether an intervention was successful or not in light of some previously identified set of criteria. Evidence for a predictive hypothesis suggests that a program met its objectives. In many cases, however, it is important to examine whether programs have a particular set of effects even if one is not confident that the program will have those effects. For example, a practitioner implementing a program that gives access to microcredit might predict gains in welfare but might also be interested in learning whether the program improves women’s status or political participation. The latter questions could form the basis of exploratory hypotheses; they can be used to learn about program impact but do not provide criteria for determining whether a program was formally “successful” or not.
 
 **When are hypotheses formed?** A key feature of all hypotheses that we examine is that they are generated **before** a program is implemented. The reason for this is that when hypotheses are generated after program development, there is a risk of the introduction of statistical bias. In particular, there may be a tendency to generate hypotheses based upon relationships that appear in the data, even if these relations do not have causal importance. 
 
@@ -133,45 +134,9 @@ From working on related interventions elsewhere, we think we can see ahead of ti
 
 - **Randomization:** The strongest evaluation strategy requires randomization of program assignment at least for some (though perhaps not all) units. Some people do not like the idea of using randomization as a part of development processes. Indeed, in some cases, randomization is not appropriate, but there are quite strong ethical reasons for why in some cases randomization might be an especially fair approach. Moreover, there are different ways of doing randomization; in some cases, simply varying the timing of which communities are worked with can be sufficient. If partner organizations are uncomfortable with the idea of randomization, then this approach will not work.
 
-- **Distrust:** Sometimes there can be distrust between practitioners and researchers, especially if practitioners think researchers are trying to make judgments on how well practitioners are doing their job or if practitioners feel that researchers are only interested in abstract questions that are not relevant for the organization. To avoid this, it is best if there is clear understanding of why researchers are willing to get involved, and also to make sure that the questions being addressed really are of joint interest.
+- **Mistrust:** Sometimes there can be mistrust between practitioners and researchers, especially if practitioners think researchers are trying to make judgments on how well practitioners are doing their job or if practitioners feel that researchers are only interested in abstract questions that are not relevant for the organization. To avoid this, it is best if there is clear understanding of why researchers are willing to get involved, and also to make sure that the questions being addressed really are of joint interest.
 
 All of these difficulties are things that can and have been overcome in many projects. We raise them early to anticipate potential problems and how they may be addressed.
-
-::: {.callout-note title="Power Illustration "}
-
-
-The figure below shows how many units you would need in each group for a simple design to hit 80% power, meaning there is an 80% chance you you find a significant result. The horizontal access shows different possible effect sizes. A standardized effect of .4 is already quite large. Roughly it is like shifting some probability of a good outcome (versus a bad outcome) from 40% to 60%. 
-
-```{r, echo = FALSE}
-
-# Define effect size range (Cohen's d from 0 to 0.5)
-effect_sizes <- seq(0.05, 0.4, by = 0.02)  # Start at 0.01 to avoid division by 0
-
-# Compute required sample size per group for 80% power at alpha = 0.05
-sample_sizes <- sapply(effect_sizes, function(d) {
-  ceiling(pwr.t.test(d = d, power = 0.8, sig.level = 0.05, type = "two.sample")$n)
-})
-
-# Create data frame for plotting
-df <- data.frame(
-  EffectSize = effect_sizes,
-  SampleSizePerGroup = sample_sizes
-)
-
-# Plot with ggplot
-ggplot(df, aes(x = EffectSize, y = SampleSizePerGroup)) +
-  geom_line() +
-  labs(
-    title = "Sample Size Needed for 80% Power (Two-Sample t-test)",
-    subtitle = "Assuming equal sample sizes and alpha = 0.05",
-    x = "Effect Size (Cohen's d)",
-    y = "Sample Size per Group"
-  ) +
-  theme_minimal(base_size = 14) +
-  geom_hline(yintercept = 100) + ylim(0, NA)
-```
-
-:::
 
 # Practical Implications for Programming
 
@@ -215,3 +180,42 @@ More commonly, however, people track outcomes in communities that they want to u
 ## Q: Is this approach consistent with other approaches such as qualitative approaches or participatory rural appraisals?
 
 **A:** Yes. The core to this approach is working out what the appropriate comparisons are in order to work out impact. Actual data collection and analysis can then be done using multiple approaches. We expect that a quantitative approach will play a central role; however, combining this perspective with qualitative and ethnographic research in the study area can often lead to more insightful results.
+
+# Appendix: statistical power {#power}
+
+::: {.callout-note title="Power Illustration "}
+
+
+The figure below shows how many units you would need in each group for a simple design to hit 80% power, meaning there is an 80% chance you you find a significant result. The horizontal access shows different possible effect sizes. A standardized effect of .4 is already quite large. Roughly it is like shifting some probability of a good outcome (versus a bad outcome) from 40% to 60%. 
+
+```{r, echo = FALSE}
+
+# Define effect size range (Cohen's d from 0 to 0.5)
+effect_sizes <- seq(0.05, 0.4, by = 0.02)  # Start at 0.01 to avoid division by 0
+
+# Compute required sample size per group for 80% power at alpha = 0.05
+sample_sizes <- sapply(effect_sizes, function(d) {
+  ceiling(pwr.t.test(d = d, power = 0.8, sig.level = 0.05, type = "two.sample")$n)
+})
+
+# Create data frame for plotting
+df <- data.frame(
+  EffectSize = effect_sizes,
+  SampleSizePerGroup = sample_sizes
+)
+
+# Plot with ggplot
+ggplot(df, aes(x = EffectSize, y = SampleSizePerGroup)) +
+  geom_line() +
+  labs(
+    title = "Sample Size Needed for 80% Power (Two-Sample t-test)",
+    subtitle = "Assuming equal sample sizes and alpha = 0.05",
+    x = "Effect Size (Cohen's d)",
+    y = "Sample Size per Group"
+  ) +
+  theme_minimal(base_size = 14) +
+  geom_hline(yintercept = 100) + ylim(0, NA)
+```
+
+:::
+
