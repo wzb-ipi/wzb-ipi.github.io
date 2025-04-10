@@ -25,3 +25,6 @@ category: horizontal contestation
 
 
 
+Other documents: 
+* [Pre-analysis plan "Reducing Inter-Religious Animosity Between Christians and Muslims in Nigeria: Testing
+an Edutainment Radio Program"](https://wzb-ipi.github.io/assets/pdf/other/PAP_Kaduna_Radio_OSF.pdf) 

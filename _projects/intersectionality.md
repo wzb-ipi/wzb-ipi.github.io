@@ -26,4 +26,4 @@ category: horizontal contestation
 
 
 Other documents: 
-* [slides](https://macartan.github.io/slides/202402_fhk.html) 
+* [Slides](https://macartan.github.io/slides/202402_fhk.html) 

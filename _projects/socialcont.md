@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Social Contact
+title: Intergroup Contact
 subtitle: Can Social Contact Reduce Prejudice and Discrimination?
 img: assets/img/socialcont.png
 importance: 7
