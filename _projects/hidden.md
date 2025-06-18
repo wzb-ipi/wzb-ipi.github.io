@@ -26,4 +26,4 @@ category: exclusion
 * See GitHub repo at: [https://github.com/gerasy1987/hiddenmeta/](https://github.com/gerasy1987/hiddenmeta/) 
 
 Other documents: 
-* [Related projects](https://cenhtro.uga.edu/_resources/documents/PRIF_Conference_Booklet.pdf) 
+* [Related projects](https://wzb-ipi.github.io/assets/pdf/other/PRIF_Conference_Booklet.pdf) 
