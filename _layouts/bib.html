@@ -161,7 +161,7 @@
               {%- assign doi_url = entry.doi | prepend: 'https://doi.org/' -%}
             {%- endunless -%}
             <a href="{{ doi_url }}" class="btn btn-sm z-depth-0" role="button"
-               target="_blank" rel="noopener noreferrer" title="Open DOI">DOI</a>
+               target="_blank" rel="noopener noreferrer" title="Open DOI">doi</a>
           {%- endif -%}
           {%- if entry.supp %}
             {% if entry.supp contains '://' -%}
