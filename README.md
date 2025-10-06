@@ -1,4 +1,4 @@
 # Institutions and political inequality
 
 
-Research group at WZB, Berlin.
+Research group at WZB, Berlin
