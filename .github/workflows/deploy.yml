@@ -2,7 +2,7 @@ name: Build and deploy Jekyll site to Pages
 
 on:
   push:
-    branches: [ master ]   # or main
+    branches: [ master ]
   workflow_dispatch:
 
 permissions:
@@ -20,12 +20,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
-      # If you need Mermaid during build, install it here:
-      # - run: npm install -g @mermaid-js/mermaid-cli
-      # Full Jekyll build using your Gemfile:
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
+      # If you need mermaid:
+      # - run: npm install -g @mermaid-js/mermaid-cli
       - name: Build site
         run: bundle exec jekyll build --trace
         env:
