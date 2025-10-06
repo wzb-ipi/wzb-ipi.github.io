@@ -22,8 +22,9 @@ jobs:
       - uses: actions/configure-pages@v5
       - uses: ruby/setup-ruby@v1
         with:
+          ruby-version: '3.1.4'
           bundler-cache: true
-      # If you need mermaid:
+      # Uncomment if you need Mermaid during build
       # - run: npm install -g @mermaid-js/mermaid-cli
       - name: Build site
         run: bundle exec jekyll build --trace
