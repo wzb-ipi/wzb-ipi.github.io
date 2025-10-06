@@ -20,16 +20,37 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1.4'
           bundler-cache: true
-      # Uncomment if you need Mermaid during build
-      # - run: npm install -g @mermaid-js/mermaid-cli
+
+      # OS deps needed by Jekyll plugins (ImageMagick)
+      - name: Install OS deps (ImageMagick)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      # If you convert notebooks to HTML/Markdown during build
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install Jupyter
+        run: |
+          python -m pip install --upgrade pip
+          pip install jupyter nbconvert
+
+      # If you use Mermaid diagrams during build (optional)
+      # - name: Mermaid CLI
+      #   run: npm install -g @mermaid-js/mermaid-cli
+
       - name: Build site
         run: bundle exec jekyll build --trace
         env:
           JEKYLL_ENV: production
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
